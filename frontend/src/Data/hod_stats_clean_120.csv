@@ -1,0 +1,121 @@
+id,title,status,faculty,month
+1,Project 1,DRAFT,Kylie Marquez,May
+2,Project 2,SUPERVISOR_APPROVED,Katie Holmes,Mar
+3,Project 3,DRAFT,Christopher Lee,Jan
+4,Project 4,DRAFT,Deanna Brooks,Feb
+5,Project 5,SUPERVISOR_APPROVED,Eric Shah,May
+6,Project 6,DRAFT,Sherri Quinn,Dec
+7,Project 7,DRAFT,Nathaniel Rivera,Dec
+8,Project 8,DRAFT,Miguel Brown,Sep
+9,Project 9,DRAFT,Ryan Banks,Dec
+10,Project 10,DRAFT,Heidi Pratt,Apr
+11,Project 11,SUBMITTED,Jeffrey Smith,Oct
+12,Project 12,DRAFT,Tyler Hall,Sep
+13,Project 13,SUPERVISOR_APPROVED,Dr. Timothy Thomas,Feb
+14,Project 14,SUBMITTED,Jason Escobar,Dec
+15,Project 15,DRAFT,Barbara Lee,Mar
+16,Project 16,SUBMITTED,Juan Jones,Jul
+17,Project 17,SUPERVISOR_APPROVED,Taylor Bell,Jul
+18,Project 18,HOD_APPROVED,Jesus Williams,Feb
+19,Project 19,DRAFT,Matthew Hill,Jun
+20,Project 20,SUPERVISOR_APPROVED,Rodney Lewis,Feb
+21,Project 21,SUPERVISOR_APPROVED,Thomas Burke,Apr
+22,Project 22,SUBMITTED,David Pruitt,May
+23,Project 23,SUBMITTED,Glenn Savage,May
+24,Project 24,SUPERVISOR_APPROVED,Angela Garcia,Apr
+25,Project 25,HOD_APPROVED,Aaron Dean,Apr
+26,Project 26,DRAFT,Derek Tucker,Feb
+27,Project 27,SUBMITTED,Crystal Jones,Feb
+28,Project 28,SUBMITTED,Alexander Smith,Apr
+29,Project 29,SUBMITTED,Joshua Colon,Dec
+30,Project 30,SUPERVISOR_APPROVED,Andrew Martin,Nov
+31,Project 31,DRAFT,Cheryl Brown,Nov
+32,Project 32,SUBMITTED,Sarah Johnson,Apr
+33,Project 33,HOD_APPROVED,Timothy Powers,Mar
+34,Project 34,SUPERVISOR_APPROVED,Brian Hudson,Feb
+35,Project 35,HOD_APPROVED,Kathleen Baker,Oct
+36,Project 36,HOD_APPROVED,Joshua Rivera,Oct
+37,Project 37,SUBMITTED,Shawn Douglas,Apr
+38,Project 38,DRAFT,Rebecca Martinez,Apr
+39,Project 39,SUPERVISOR_APPROVED,Mr. Derrick Payne,Mar
+40,Project 40,DRAFT,Caleb Rivas,Oct
+41,Project 41,HOD_APPROVED,Ashley Vargas,Mar
+42,Project 42,SUPERVISOR_APPROVED,Jennifer Shepherd,Jan
+43,Project 43,SUPERVISOR_APPROVED,Jamie Norman,May
+44,Project 44,DRAFT,Alexandria Smith,Apr
+45,Project 45,SUPERVISOR_APPROVED,Oscar Osborne,Jan
+46,Project 46,HOD_APPROVED,Sylvia Dawson,Sep
+47,Project 47,HOD_APPROVED,Jillian Flowers,Jan
+48,Project 48,SUBMITTED,Amanda Sanchez,Sep
+49,Project 49,DRAFT,Todd White MD,Jan
+50,Project 50,HOD_APPROVED,Diane Andrews,Jul
+51,Project 51,HOD_APPROVED,Frank Woods DDS,Apr
+52,Project 52,SUPERVISOR_APPROVED,Thomas Scott,Jul
+53,Project 53,SUBMITTED,Eddie Warren,Aug
+54,Project 54,SUPERVISOR_APPROVED,Jennifer Edwards,Sep
+55,Project 55,SUBMITTED,Katrina Bennett,Jun
+56,Project 56,SUBMITTED,Jeffrey Ware,Nov
+57,Project 57,SUBMITTED,Samantha Campbell,Dec
+58,Project 58,DRAFT,Paul Paul Jr.,Nov
+59,Project 59,SUPERVISOR_APPROVED,Susan Dixon,Sep
+60,Project 60,SUPERVISOR_APPROVED,Betty Smith,Jan
+61,Project 61,DRAFT,Sarah Spencer DDS,Jan
+62,Project 62,SUPERVISOR_APPROVED,Leslie Young,Aug
+63,Project 63,SUBMITTED,Brian Gutierrez,Feb
+64,Project 64,SUPERVISOR_APPROVED,Jeremy Perry,Dec
+65,Project 65,HOD_APPROVED,Leah Garcia DVM,Nov
+66,Project 66,DRAFT,Jeffrey Bolton,Sep
+67,Project 67,SUPERVISOR_APPROVED,Jonathan Lloyd,Nov
+68,Project 68,SUPERVISOR_APPROVED,Monica Lambert,Feb
+69,Project 69,SUBMITTED,Jacqueline Watson,Feb
+70,Project 70,SUBMITTED,Noah Velasquez,Dec
+71,Project 71,DRAFT,Melissa Jenkins,Aug
+72,Project 72,SUBMITTED,Mr. Aaron Hill,Feb
+73,Project 73,HOD_APPROVED,Danielle Beard,Mar
+74,Project 74,SUPERVISOR_APPROVED,Russell Jones,Feb
+75,Project 75,SUBMITTED,Nicole Becker,Mar
+76,Project 76,HOD_APPROVED,Joseph Donovan,May
+77,Project 77,SUBMITTED,Robert Cummings,May
+78,Project 78,SUBMITTED,Tonya Wagner,Oct
+79,Project 79,SUPERVISOR_APPROVED,Melanie Lawson,Mar
+80,Project 80,SUBMITTED,Lauren Duncan,Dec
+81,Project 81,SUBMITTED,Brendan Davis,Jul
+82,Project 82,SUPERVISOR_APPROVED,Nicole Wagner,Feb
+83,Project 83,SUBMITTED,Larry Santana,Aug
+84,Project 84,SUPERVISOR_APPROVED,Megan Price,May
+85,Project 85,DRAFT,Natalie Gonzalez,May
+86,Project 86,SUBMITTED,Clinton Howell,Jun
+87,Project 87,SUBMITTED,Shelby Beasley,Apr
+88,Project 88,HOD_APPROVED,Michael Lucas,Jan
+89,Project 89,SUPERVISOR_APPROVED,Juan Dudley,Jul
+90,Project 90,SUPERVISOR_APPROVED,Robert Francis,Aug
+91,Project 91,DRAFT,Andrea Hernandez,Dec
+92,Project 92,SUBMITTED,Patrick Thompson,Oct
+93,Project 93,DRAFT,Glenda Deleon,Jan
+94,Project 94,SUBMITTED,Lauren Simmons,Feb
+95,Project 95,SUPERVISOR_APPROVED,Dr. Daniel Steele,Jan
+96,Project 96,SUBMITTED,Gregory Stephens,Mar
+97,Project 97,SUPERVISOR_APPROVED,Kristi Hurst,May
+98,Project 98,DRAFT,Johnathan Carey,Feb
+99,Project 99,SUBMITTED,Veronica Mendoza,Mar
+100,Project 100,DRAFT,David Lucas,Jun
+101,Project 101,HOD_APPROVED,Andrew Jones,Feb
+102,Project 102,SUPERVISOR_APPROVED,Shawn Phillips,Feb
+103,Project 103,SUBMITTED,Justin Rogers,Feb
+104,Project 104,SUBMITTED,Chase Perez,Jan
+105,Project 105,SUPERVISOR_APPROVED,Mark Solis,Jan
+106,Project 106,DRAFT,Heidi Beltran,Mar
+107,Project 107,SUPERVISOR_APPROVED,Breanna Garcia,Nov
+108,Project 108,HOD_APPROVED,Kevin Arnold,Jul
+109,Project 109,SUBMITTED,Timothy Williams,Jan
+110,Project 110,DRAFT,Brooke Massey,Sep
+111,Project 111,DRAFT,Darren Johnson,May
+112,Project 112,SUPERVISOR_APPROVED,Brittany Byrd,Jan
+113,Project 113,DRAFT,Derrick Wells,Jan
+114,Project 114,DRAFT,Mrs. Yolanda Matthews,Feb
+115,Project 115,DRAFT,Adrienne Clark,Aug
+116,Project 116,SUPERVISOR_APPROVED,Briana Allen,Dec
+117,Project 117,DRAFT,Jennifer Whitaker,Jul
+118,Project 118,DRAFT,Glenn Butler,Feb
+119,Project 119,SUPERVISOR_APPROVED,Brett Villegas,Feb
+120,Project 120,SUPERVISOR_APPROVED,Jessica Gillespie MD,Mar

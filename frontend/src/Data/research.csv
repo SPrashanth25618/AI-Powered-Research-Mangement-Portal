@@ -1,0 +1,801 @@
+research_id,student_id,student_name,department,year,title,domain,status,plagiarism_percent,ai_similarity,risk_level,faculty_approved,hod_approved,submission_date,approval_days,faculty_comments_count
+R0001,S2306,Matthew Rogers,CSE,2022,Economy according author similar.,Civil Structures,SUBMITTED,40,55,HIGH,False,False,2024-02-17,0,0
+R0002,S9486,Aaron Jackson,ECE,2024,Time but down soon.,IoT,DRAFT,16,28,MEDIUM,False,False,2023-02-12,0,2
+R0003,S7802,Cynthia Burke,CIVIL,2024,Next heart reach maybe my clearly home.,Thermal Engineering,SUPERVISOR_APPROVED,37,45,HIGH,True,False,2024-05-03,11,2
+R0004,S8275,Lauren Duncan,MECH,2024,Few leg garden role.,Renewable Energy,SUBMITTED,36,46,HIGH,False,False,2023-12-30,0,4
+R0005,S4687,Ronald Carr,EEE,2023,Put ever system face huge rich source society.,VLSI,SUPERVISOR_APPROVED,25,30,MEDIUM,True,False,2024-04-28,8,3
+R0006,S1665,Renee Eaton,CIVIL,2023,Popular than tax loss relationship event dark.,AI,SUPERVISOR_APPROVED,43,55,HIGH,True,False,2023-07-11,6,2
+R0007,S7426,Thomas Gregory,CIVIL,2024,Long thousand moment alone figure physical.,VLSI,HOD_APPROVED,5,15,LOW,True,True,2023-10-01,19,1
+R0008,S5069,Jennifer Hansen,MECH,2023,Business without his eye.,Data Science,HOD_APPROVED,19,30,MEDIUM,True,True,2023-05-06,15,3
+R0009,S3766,Kylie Marquez,EEE,2022,Recently law fill ago recent why use.,Machine Learning,DRAFT,8,23,LOW,False,False,2024-05-13,0,3
+R0010,S6023,Emily Avery,CIVIL,2023,Listen individual contain certain remain until.,Cybersecurity,HOD_APPROVED,11,21,LOW,True,True,2023-02-18,17,1
+R0011,S6386,David Schmidt,MECH,2024,Size put economic outside of much.,IoT,HOD_APPROVED,16,23,MEDIUM,True,True,2023-08-17,5,0
+R0012,S5100,Kelly Conner,EEE,2024,Question question bar bit discover doctor big.,IoT,SUPERVISOR_APPROVED,42,50,HIGH,True,False,2023-12-25,11,3
+R0013,S6365,Kimberly Finley,MECH,2023,Establish whatever stand notice within collection agree surface.,Data Science,DRAFT,43,49,HIGH,False,False,2024-03-05,0,0
+R0014,S9800,Krystal Thompson,CIVIL,2022,Sign worry road.,Renewable Energy,HOD_APPROVED,38,52,HIGH,True,True,2023-11-29,17,2
+R0015,S7688,Caleb Perez,CSE,2023,Speak ever us.,VLSI,SUBMITTED,23,28,MEDIUM,False,False,2023-08-05,0,2
+R0016,S3433,Michele Meyer,ECE,2024,Marriage approach message.,Data Science,HOD_APPROVED,45,55,HIGH,True,True,2023-05-20,8,0
+R0017,S9386,Nicole Wagner,CSE,2023,Fly world state especially citizen to choose.,Civil Structures,SUPERVISOR_APPROVED,24,38,MEDIUM,True,False,2024-02-11,17,0
+R0018,S7835,Abigail Chambers,CIVIL,2024,Million vote never give front.,IoT,SUPERVISOR_APPROVED,21,34,MEDIUM,True,False,2024-01-16,14,4
+R0019,S3729,Cheryl Lee,ECE,2022,Anyone like wrong enjoy.,Civil Structures,SUBMITTED,36,46,HIGH,False,False,2023-06-21,0,2
+R0020,S8492,Timothy Powers,CIVIL,2023,Lay evidence yeah news onto protect.,Data Science,HOD_APPROVED,33,39,HIGH,True,True,2024-03-30,5,2
+R0021,S7699,Robert Hall II,CSE,2023,Doctor happy many.,Cybersecurity,DRAFT,43,52,HIGH,False,False,2023-04-22,0,4
+R0022,S9680,Ray Carter,ECE,2022,We sister beat.,Thermal Engineering,HOD_APPROVED,26,31,MEDIUM,True,True,2024-04-11,11,1
+R0023,S4774,David Mccullough,CSE,2023,Pattern finally group without improve down treatment try.,Civil Structures,SUBMITTED,28,33,MEDIUM,False,False,2024-01-13,0,4
+R0024,S8334,Dr. Daniel Steele,CSE,2022,Your away end agreement week.,VLSI,SUPERVISOR_APPROVED,11,16,LOW,True,False,2023-01-17,14,2
+R0025,S1848,Kerri Sims,CSE,2024,Team human alone explain economy company visit.,VLSI,SUBMITTED,29,41,MEDIUM,False,False,2023-05-06,0,4
+R0026,S5282,Andrew Mills,CIVIL,2024,View activity exist information room sure evidence close.,Thermal Engineering,SUBMITTED,39,52,HIGH,False,False,2023-10-08,0,2
+R0027,S1718,Nancy Davis,CIVIL,2022,Leave play unit job themselves effort year.,Cybersecurity,HOD_APPROVED,12,23,LOW,True,True,2024-01-10,10,2
+R0028,S4123,William Hall,MECH,2023,Who various campaign might dream candidate activity.,Blockchain,HOD_APPROVED,29,35,MEDIUM,True,True,2023-11-13,16,4
+R0029,S6899,Stacy Wagner,CSE,2024,Sell finish military take begin very.,Data Science,SUBMITTED,37,46,HIGH,False,False,2024-03-03,0,1
+R0030,S8753,Robin Stark,CSE,2024,Outside religious our food common.,Blockchain,SUBMITTED,16,28,MEDIUM,False,False,2023-10-21,0,4
+R0031,S5884,Dr. David Baldwin,CIVIL,2024,Fill let doctor can.,Blockchain,SUBMITTED,36,50,HIGH,False,False,2023-08-09,0,4
+R0032,S3958,Karen Scott,CSE,2024,Rock fill later page.,Civil Structures,HOD_APPROVED,43,57,HIGH,True,True,2024-03-26,17,0
+R0033,S5813,Karina Young,EEE,2023,Cause away force.,VLSI,SUPERVISOR_APPROVED,12,18,LOW,True,False,2023-06-28,20,4
+R0034,S8578,Mr. Kevin Evans,ECE,2023,Water somebody above pick cost measure.,Blockchain,SUPERVISOR_APPROVED,24,33,MEDIUM,True,False,2023-09-06,6,2
+R0035,S5261,Joshua Wright,CSE,2022,Its test community never heart return car.,VLSI,DRAFT,27,35,MEDIUM,False,False,2023-02-08,0,2
+R0036,S9359,Peter Bell,CIVIL,2024,Computer every participant month several pressure deal until.,Machine Learning,SUBMITTED,44,58,HIGH,False,False,2024-04-14,0,2
+R0037,S2578,Catherine Leach,CSE,2022,Raise however to agreement little.,Blockchain,DRAFT,26,35,MEDIUM,False,False,2023-05-04,0,3
+R0038,S3208,Joseph Nichols,ECE,2023,Air significant dream plan.,Renewable Energy,DRAFT,35,43,HIGH,False,False,2024-02-29,0,2
+R0039,S4914,Alex Olsen,CSE,2022,Senior nation practice probably trial fire.,Cybersecurity,HOD_APPROVED,18,25,MEDIUM,True,True,2024-03-28,20,3
+R0040,S8936,Alejandro Flores,CSE,2023,Stage area run.,Machine Learning,SUBMITTED,36,45,HIGH,False,False,2023-06-07,0,2
+R0041,S8038,Kimberly Palmer,CSE,2024,Firm record product beyond specific maybe down.,Thermal Engineering,SUBMITTED,31,40,HIGH,False,False,2024-04-02,0,1
+R0042,S6678,Amber Bean,EEE,2023,Possible future feeling process.,Civil Structures,HOD_APPROVED,23,31,MEDIUM,True,True,2023-12-09,7,1
+R0043,S9848,Brent Willis,ECE,2023,Size actually move life.,Data Science,SUBMITTED,11,26,LOW,False,False,2023-10-16,0,1
+R0044,S7597,Sandra Williams,EEE,2023,Develop create those success food receive fear.,Machine Learning,SUBMITTED,26,40,MEDIUM,False,False,2023-01-21,0,3
+R0045,S4232,Gabriel Jarvis,MECH,2023,Professor front activity read oil city why.,Blockchain,SUBMITTED,19,28,MEDIUM,False,False,2024-04-28,0,4
+R0046,S8509,Carrie Gibson,CIVIL,2024,Edge leave middle the little.,IoT,HOD_APPROVED,9,16,LOW,True,True,2023-08-04,12,3
+R0047,S4841,Julia Clay,EEE,2024,Unit success professional with pattern.,Data Science,SUPERVISOR_APPROVED,27,36,MEDIUM,True,False,2023-03-17,20,2
+R0048,S6101,Derek Tucker,CSE,2022,Car raise arrive camera.,IoT,DRAFT,21,27,MEDIUM,False,False,2024-02-13,0,0
+R0049,S6504,Travis Cooper,CSE,2024,Note model dinner hair indicate professor have.,AI,SUPERVISOR_APPROVED,44,51,HIGH,True,False,2023-02-21,9,3
+R0050,S5686,Jessica Gillespie MD,EEE,2023,Member before important child.,Cybersecurity,SUPERVISOR_APPROVED,6,14,LOW,True,False,2023-03-10,15,2
+R0051,S7269,Derrick Wells,ECE,2022,Area program voice recently sing account.,VLSI,DRAFT,33,44,HIGH,False,False,2023-01-21,0,1
+R0052,S1067,Kenneth Pierce,ECE,2024,Likely issue television reality cell ok north.,VLSI,SUBMITTED,12,27,LOW,False,False,2023-06-11,0,2
+R0053,S6947,Steven Collins,MECH,2024,Learn rich center yourself wind.,IoT,HOD_APPROVED,32,44,HIGH,True,True,2023-03-28,12,1
+R0054,S8478,Elaine Arroyo,ECE,2022,Including everything magazine protect.,Machine Learning,HOD_APPROVED,28,36,MEDIUM,True,True,2023-03-07,18,4
+R0055,S9004,Amanda Olson,CSE,2022,Or future similar reason drop something.,Machine Learning,DRAFT,22,37,MEDIUM,False,False,2023-11-11,0,0
+R0056,S6481,Paul Clark,ECE,2023,Sell let short reality large international.,Data Science,SUBMITTED,7,20,LOW,False,False,2023-09-02,0,4
+R0057,S8032,Juan Dudley,CSE,2022,Factor government wall.,IoT,SUPERVISOR_APPROVED,39,50,HIGH,True,False,2023-07-03,15,4
+R0058,S2944,Sarah Jenkins,CIVIL,2024,Site product police beyond almost price nation loss.,Thermal Engineering,HOD_APPROVED,41,52,HIGH,True,True,2023-04-16,7,1
+R0059,S5381,Stephanie Hansen,ECE,2024,Appear man smile.,AI,HOD_APPROVED,18,27,MEDIUM,True,True,2023-11-26,15,4
+R0060,S7246,Tonya Wagner,MECH,2023,Couple describe option despite bar.,Machine Learning,SUBMITTED,31,38,HIGH,False,False,2023-10-24,0,2
+R0061,S5274,Alexander Smith,CIVIL,2022,Whole form pretty sign season always out.,Blockchain,SUBMITTED,18,26,MEDIUM,False,False,2024-04-20,0,0
+R0062,S7009,Richard Robbins,ECE,2023,Possible than purpose.,Machine Learning,DRAFT,39,50,HIGH,False,False,2023-11-03,0,3
+R0063,S3170,Linda Chavez,CSE,2023,Friend school stage our traditional it.,Cybersecurity,HOD_APPROVED,26,35,MEDIUM,True,True,2023-12-04,15,4
+R0064,S1820,William Gentry,EEE,2023,Trade technology hope scene find standard.,Thermal Engineering,SUPERVISOR_APPROVED,22,28,MEDIUM,True,False,2024-03-27,17,4
+R0065,S3532,Mary Perry,CIVIL,2024,Attack southern state lay country into.,Cybersecurity,HOD_APPROVED,7,14,LOW,True,True,2023-01-28,20,4
+R0066,S6837,Alexandria Smith,MECH,2024,Town thus their near return.,Renewable Energy,DRAFT,13,26,LOW,False,False,2024-04-07,0,1
+R0067,S3967,Julie White,MECH,2023,Book somebody throw clear what.,Civil Structures,SUBMITTED,13,24,LOW,False,False,2023-10-11,0,0
+R0068,S2186,Sheila Perez,CSE,2023,Lose computer once suffer true black.,Cybersecurity,HOD_APPROVED,10,15,LOW,True,True,2023-12-12,17,2
+R0069,S8938,Meghan Jenkins,CIVIL,2023,Describe total involve star.,Machine Learning,HOD_APPROVED,23,37,MEDIUM,True,True,2024-04-17,16,0
+R0070,S5547,Kristi Hurst,CSE,2023,Travel minute power.,Machine Learning,SUPERVISOR_APPROVED,44,56,HIGH,True,False,2023-05-22,9,1
+R0071,S4573,Paul Scott,CSE,2022,Home fine image concern expect around traditional receive.,IoT,DRAFT,9,18,LOW,False,False,2023-12-04,0,1
+R0072,S4641,Raymond Mcmillan,CIVIL,2023,Themselves whole fund.,Data Science,HOD_APPROVED,27,38,MEDIUM,True,True,2023-11-06,9,4
+R0073,S8939,Rachel Hernandez,CIVIL,2024,Attorney morning kind clearly hospital it yard.,Thermal Engineering,SUBMITTED,42,52,HIGH,False,False,2024-01-11,0,3
+R0074,S7037,Joshua Rivera,ECE,2022,Important skin beyond.,AI,HOD_APPROVED,39,46,HIGH,True,True,2023-10-29,19,3
+R0075,S9553,Walter Clark,MECH,2024,Student process maybe fact.,Machine Learning,DRAFT,36,49,HIGH,False,False,2023-09-09,0,4
+R0076,S7987,Stacy Hernandez,CIVIL,2023,Close church no generation.,Civil Structures,HOD_APPROVED,26,34,MEDIUM,True,True,2024-03-16,15,3
+R0077,S8878,Catherine Browning,CIVIL,2023,Art help either from her team where.,VLSI,HOD_APPROVED,40,49,HIGH,True,True,2023-10-16,10,4
+R0078,S2214,Brian Newman,MECH,2023,Everybody nearly fund.,Data Science,SUPERVISOR_APPROVED,16,21,MEDIUM,True,False,2023-11-06,12,4
+R0079,S8632,Travis Montgomery,ECE,2022,Seat it none onto build.,Blockchain,SUBMITTED,35,41,HIGH,False,False,2024-01-01,0,0
+R0080,S7445,Michael Forbes,MECH,2023,Name play rest maybe baby question.,AI,SUPERVISOR_APPROVED,17,31,MEDIUM,True,False,2023-08-02,15,2
+R0081,S5128,Justin Miller,ECE,2024,Forget million much between country a opportunity son.,Data Science,SUPERVISOR_APPROVED,44,57,HIGH,True,False,2023-11-11,17,4
+R0082,S3018,Kathleen Baker,CIVIL,2023,Tonight recently could as.,Blockchain,HOD_APPROVED,41,47,HIGH,True,True,2023-10-07,13,4
+R0083,S3141,Thomas Dixon,CSE,2022,Church rich there realize toward.,Machine Learning,SUBMITTED,35,46,HIGH,False,False,2023-11-03,0,2
+R0084,S4296,Jeffrey Barnes,CSE,2022,Use or head view.,Cybersecurity,SUBMITTED,18,29,MEDIUM,False,False,2023-02-19,0,1
+R0085,S8057,Ryan Banks,MECH,2023,Level offer look beat pull apply group until.,Blockchain,DRAFT,15,22,MEDIUM,False,False,2023-12-29,0,2
+R0086,S3635,Betty Smith,EEE,2023,Whatever administration tree interview.,Civil Structures,SUPERVISOR_APPROVED,45,58,HIGH,True,False,2024-01-24,9,3
+R0087,S3299,Laurie Cunningham,ECE,2024,Simply gas himself.,Cybersecurity,SUPERVISOR_APPROVED,17,23,MEDIUM,True,False,2023-08-11,20,2
+R0088,S5970,Jesse Mckinney,CSE,2022,State live chair early bank.,IoT,SUPERVISOR_APPROVED,17,23,MEDIUM,True,False,2023-05-21,10,2
+R0089,S4183,Jamie Murphy,ECE,2023,Yes page security under cultural.,Civil Structures,DRAFT,27,34,MEDIUM,False,False,2023-02-27,0,2
+R0090,S5234,Kenneth Garrett,EEE,2023,Situation myself can network region former will.,Data Science,DRAFT,21,34,MEDIUM,False,False,2024-02-19,0,1
+R0091,S4052,Timothy Williams,CSE,2022,Cup strong information continue population population professional.,Blockchain,SUBMITTED,17,27,MEDIUM,False,False,2024-01-02,0,3
+R0092,S8514,Amy Lawrence,CSE,2022,Against nature next base memory.,Renewable Energy,SUBMITTED,38,43,HIGH,False,False,2024-04-19,0,1
+R0093,S8311,Juan Marshall,ECE,2022,Scientist draw its reduce spring parent particularly security.,Cybersecurity,SUBMITTED,25,34,MEDIUM,False,False,2024-01-07,0,2
+R0094,S4993,Jennifer Bryant,CIVIL,2023,Big prove mouth research food six successful.,Data Science,DRAFT,42,52,HIGH,False,False,2023-07-23,0,1
+R0095,S3638,Amanda Lee,MECH,2022,Next article station blue.,Machine Learning,DRAFT,33,45,HIGH,False,False,2023-05-23,0,3
+R0096,S7972,Lorraine Barr,ECE,2023,Major although step court food place.,Blockchain,SUPERVISOR_APPROVED,39,47,HIGH,True,False,2023-04-28,19,4
+R0097,S5603,Andrea Miller,CSE,2023,Song goal region between her some.,Renewable Energy,DRAFT,39,52,HIGH,False,False,2023-06-25,0,3
+R0098,S7298,Janet Carter,CSE,2024,Draw use lawyer relate focus take baby.,Blockchain,SUBMITTED,9,15,LOW,False,False,2023-03-31,0,1
+R0099,S2801,Kelly Morales,CSE,2022,Standard head born inside.,Thermal Engineering,SUBMITTED,22,31,MEDIUM,False,False,2023-01-28,0,2
+R0100,S9586,Mary Riley,EEE,2023,Vote they she voice ever million.,Renewable Energy,SUPERVISOR_APPROVED,36,48,HIGH,True,False,2023-03-30,18,1
+R0101,S2861,Steven Scott,CSE,2022,Brother listen recent still.,Thermal Engineering,SUPERVISOR_APPROVED,8,23,LOW,True,False,2024-05-08,5,0
+R0102,S4568,Brian Gutierrez,CSE,2024,Deep I design accept serve.,Thermal Engineering,SUBMITTED,5,20,LOW,False,False,2023-02-28,0,0
+R0103,S5686,Crystal Hull,CSE,2024,Fish kitchen keep involve enter floor.,Thermal Engineering,SUBMITTED,21,27,MEDIUM,False,False,2023-12-20,0,1
+R0104,S4810,Julie Luna,CSE,2022,Win good until four entire cell must.,Blockchain,DRAFT,40,47,HIGH,False,False,2023-10-12,0,2
+R0105,S1147,Gregory Fletcher,ECE,2023,Entire even training mouth.,Civil Structures,SUPERVISOR_APPROVED,28,38,MEDIUM,True,False,2023-07-25,15,0
+R0106,S9965,Haley Anderson,MECH,2024,Spend along seat toward threat quickly.,AI,SUPERVISOR_APPROVED,38,45,HIGH,True,False,2023-05-10,19,4
+R0107,S2642,Christina Mccarthy,CSE,2022,Best evidence room.,AI,DRAFT,21,32,MEDIUM,False,False,2024-02-16,0,3
+R0108,S8451,Jose Adkins,CIVIL,2024,Poor center price able.,Civil Structures,SUPERVISOR_APPROVED,43,54,HIGH,True,False,2023-09-15,10,2
+R0109,S7547,Stephanie Williams,EEE,2022,Whose where may dream.,AI,HOD_APPROVED,27,42,MEDIUM,True,True,2023-01-12,18,2
+R0110,S5894,Brittany Anderson,CIVIL,2022,Fast crime leader tend evidence choose work tend.,AI,HOD_APPROVED,16,30,MEDIUM,True,True,2023-08-12,7,1
+R0111,S8908,Jessica Obrien,MECH,2022,Hit bad no.,VLSI,SUPERVISOR_APPROVED,16,21,MEDIUM,True,False,2024-01-15,13,0
+R0112,S1696,Tyler Hall,CIVIL,2023,Write go right training draw test.,Blockchain,DRAFT,8,14,LOW,False,False,2023-09-30,0,0
+R0113,S3478,Amanda Reyes,ECE,2022,Hold unit raise improve brother create.,IoT,SUBMITTED,31,41,HIGH,False,False,2023-08-06,0,2
+R0114,S7661,Timothy Kelly,CSE,2023,Food central put.,Machine Learning,DRAFT,44,52,HIGH,False,False,2023-09-20,0,3
+R0115,S4806,Michael Mahoney,EEE,2023,High study capital human positive development position until.,Blockchain,SUBMITTED,16,28,MEDIUM,False,False,2023-01-29,0,3
+R0116,S3836,Kristine Ryan,CIVIL,2023,Issue eat major scientist structure.,VLSI,DRAFT,45,56,HIGH,False,False,2023-05-07,0,2
+R0117,S9245,John Smith,CIVIL,2023,He wonder network approach buy.,IoT,HOD_APPROVED,20,34,MEDIUM,True,True,2024-02-10,11,1
+R0118,S1310,Andrew Martin,CSE,2023,Radio much future Congress.,IoT,SUPERVISOR_APPROVED,36,47,HIGH,True,False,2023-11-22,14,3
+R0119,S9027,Diane Sosa,EEE,2022,Wind mention generation fire leader.,Data Science,SUBMITTED,21,36,MEDIUM,False,False,2024-01-18,0,4
+R0120,S5806,Luke Hale,CSE,2023,Form suggest indeed quality feeling painting attention carry.,Data Science,SUPERVISOR_APPROVED,8,16,LOW,True,False,2023-07-08,10,1
+R0121,S5852,Joseph Donovan,ECE,2024,Assume speech hit bill source common.,Cybersecurity,HOD_APPROVED,42,50,HIGH,True,True,2024-05-08,12,0
+R0122,S2476,Brittany Craig,ECE,2024,Sense my race include.,Renewable Energy,SUPERVISOR_APPROVED,18,26,MEDIUM,True,False,2023-08-17,7,0
+R0123,S9681,Doris Jones,CSE,2024,South interesting guess offer writer.,Blockchain,SUPERVISOR_APPROVED,9,21,LOW,True,False,2023-01-23,8,3
+R0124,S9530,Heather Schneider,ECE,2023,Her number region difficult event employee political.,Data Science,SUPERVISOR_APPROVED,41,46,HIGH,True,False,2024-04-29,6,3
+R0125,S1313,Tyler Ellis,MECH,2024,Property see raise pick future movement.,IoT,SUPERVISOR_APPROVED,39,46,HIGH,True,False,2024-03-30,18,3
+R0126,S3252,Tina Sanchez,MECH,2022,Rate worry between report.,Blockchain,SUBMITTED,12,21,LOW,False,False,2023-07-04,0,4
+R0127,S5404,Pamela Rodgers,MECH,2023,Produce somebody score exist economy decision.,IoT,SUBMITTED,26,33,MEDIUM,False,False,2024-03-25,0,3
+R0128,S6881,Valerie Thompson,CSE,2022,Computer real small step.,Thermal Engineering,HOD_APPROVED,44,56,HIGH,True,True,2023-01-28,18,2
+R0129,S8214,Ashley Ochoa,CSE,2023,Idea form detail effort.,AI,SUPERVISOR_APPROVED,44,52,HIGH,True,False,2023-04-04,13,1
+R0130,S2341,Jonathan Rios,ECE,2024,Change charge hour crime he century though early.,Cybersecurity,SUBMITTED,15,22,MEDIUM,False,False,2023-09-12,0,0
+R0131,S3121,Christopher Martinez,ECE,2024,Blood Democrat building stock worry situation.,AI,SUBMITTED,42,47,HIGH,False,False,2023-09-17,0,3
+R0132,S7773,Elizabeth Juarez,CSE,2024,Meeting executive difference head less then respond.,Thermal Engineering,SUPERVISOR_APPROVED,14,26,LOW,True,False,2023-12-18,17,3
+R0133,S4281,John Brown,CSE,2024,Within democratic end role read evening.,Machine Learning,DRAFT,37,43,HIGH,False,False,2023-08-27,0,3
+R0134,S7200,Tiffany Kirby,CIVIL,2024,Together finish generation design wide other decision.,Machine Learning,DRAFT,25,30,MEDIUM,False,False,2023-01-03,0,2
+R0135,S5598,Stacy Blake,CIVIL,2024,According member bring.,Machine Learning,SUPERVISOR_APPROVED,18,27,MEDIUM,True,False,2023-01-24,6,2
+R0136,S8687,Angela Garcia,ECE,2022,Field chance not free article debate budget.,AI,SUPERVISOR_APPROVED,29,37,MEDIUM,True,False,2024-04-12,7,1
+R0137,S1834,Mary Sharp,CSE,2022,Particular perhaps true baby need or all race.,Machine Learning,SUPERVISOR_APPROVED,41,51,HIGH,True,False,2023-03-16,19,1
+R0138,S2217,Maria Ingram,CSE,2024,War administration draw star.,Civil Structures,SUPERVISOR_APPROVED,6,16,LOW,True,False,2023-07-07,8,0
+R0139,S9657,Lori Potter,ECE,2023,Place class alone certainly wide have.,Civil Structures,SUBMITTED,25,37,MEDIUM,False,False,2023-02-19,0,3
+R0140,S6380,Robert Lee,CIVIL,2024,Phone policy remember campaign card church.,Thermal Engineering,HOD_APPROVED,34,40,HIGH,True,True,2023-03-12,12,1
+R0141,S4426,Stephanie Arroyo,MECH,2022,Laugh lay step free seek discussion.,Civil Structures,SUPERVISOR_APPROVED,30,42,HIGH,True,False,2023-02-24,12,1
+R0142,S3193,Thomas Rose,CSE,2024,Job six result word.,Blockchain,HOD_APPROVED,28,41,MEDIUM,True,True,2023-01-05,17,3
+R0143,S6414,Elizabeth Thomas,CSE,2022,Can skill recently who life.,IoT,SUPERVISOR_APPROVED,29,43,MEDIUM,True,False,2024-05-15,13,3
+R0144,S6477,Leslie Roberts,CSE,2022,Best social sell window finish nearly.,Renewable Energy,DRAFT,12,17,LOW,False,False,2023-05-07,0,0
+R0145,S7194,Daniel Davis,EEE,2024,Laugh individual owner none five.,VLSI,HOD_APPROVED,40,48,HIGH,True,True,2023-09-14,15,1
+R0146,S7945,Darlene Cameron,CIVIL,2024,This oil arm require.,Civil Structures,HOD_APPROVED,8,19,LOW,True,True,2023-06-21,5,3
+R0147,S9653,Sherri Haas,CSE,2022,Statement century run country Mrs.,Renewable Energy,SUBMITTED,32,43,HIGH,False,False,2024-01-12,0,0
+R0148,S4611,Kelly Flores,CIVIL,2022,Line sure take appear power much recognize sport.,AI,SUPERVISOR_APPROVED,43,51,HIGH,True,False,2023-05-05,20,0
+R0149,S2296,Melissa Jenkins,CSE,2023,Improve bank my.,Cybersecurity,DRAFT,30,37,HIGH,False,False,2023-08-23,0,4
+R0150,S3836,Sarah Harrison,ECE,2024,Purpose indicate sign everything dark.,Cybersecurity,HOD_APPROVED,36,43,HIGH,True,True,2023-01-02,14,3
+R0151,S6223,Tom Ballard,CSE,2022,Hand recognize difference.,AI,DRAFT,28,39,MEDIUM,False,False,2023-02-04,0,4
+R0152,S8876,Steven Mayer,ECE,2023,Participant herself much police.,Cybersecurity,SUBMITTED,10,25,LOW,False,False,2023-03-18,0,1
+R0153,S9198,Duane Flores,ECE,2022,Here program official.,Blockchain,SUPERVISOR_APPROVED,33,42,HIGH,True,False,2023-10-04,5,1
+R0154,S9620,Paul Flynn,ECE,2023,Hope show old education meeting free tough.,Thermal Engineering,DRAFT,38,45,HIGH,False,False,2023-06-28,0,0
+R0155,S2543,Jennifer Whitaker,ECE,2022,Speech grow price.,Cybersecurity,DRAFT,37,45,HIGH,False,False,2023-07-16,0,1
+R0156,S7406,Rebecca Owens,MECH,2022,Before over other.,Blockchain,SUBMITTED,15,25,MEDIUM,False,False,2023-05-17,0,0
+R0157,S7684,Keith Barber,CSE,2023,Score his success group almost cost step.,Thermal Engineering,SUBMITTED,26,38,MEDIUM,False,False,2024-03-20,0,4
+R0158,S9664,Sandra Cardenas,ECE,2023,Piece hope reality glass nation major eye.,VLSI,DRAFT,12,20,LOW,False,False,2024-02-21,0,3
+R0159,S7430,William Yoder,MECH,2024,Address type follow fact deep knowledge rest teach.,Renewable Energy,HOD_APPROVED,21,33,MEDIUM,True,True,2024-05-10,8,0
+R0160,S5482,Tiffany Sims,ECE,2022,Well consider kid crime good.,Civil Structures,SUPERVISOR_APPROVED,35,48,HIGH,True,False,2023-09-23,12,1
+R0161,S9145,Tracey Sharp,CSE,2022,Its unit important threat.,Thermal Engineering,SUBMITTED,15,22,MEDIUM,False,False,2023-01-15,0,4
+R0162,S6335,Morgan Hunter,CIVIL,2022,Whom couple place discuss front never local.,Cybersecurity,DRAFT,31,39,HIGH,False,False,2023-04-11,0,0
+R0163,S6525,Frank Grant,ECE,2024,Whom statement matter scene know real.,Cybersecurity,DRAFT,33,46,HIGH,False,False,2023-12-28,0,1
+R0164,S3260,Jose Mullen,ECE,2023,Ever music author seat eight administration left.,Thermal Engineering,SUBMITTED,34,48,HIGH,False,False,2024-01-11,0,4
+R0165,S7331,David Simpson,CIVIL,2024,Health peace popular instead candidate.,Cybersecurity,SUPERVISOR_APPROVED,29,43,MEDIUM,True,False,2023-08-10,16,1
+R0166,S3000,Erin Mckay,CSE,2024,Just kitchen month.,AI,DRAFT,21,29,MEDIUM,False,False,2023-03-22,0,1
+R0167,S3333,Wanda Swanson,MECH,2023,Lead pressure discover card discuss her.,IoT,DRAFT,12,23,LOW,False,False,2023-09-11,0,0
+R0168,S4149,Mark Miles,ECE,2024,Reflect perhaps indeed number miss raise.,Civil Structures,SUBMITTED,15,24,MEDIUM,False,False,2023-04-11,0,2
+R0169,S3340,Patrick Smith,CSE,2022,Leader least ahead nor.,Thermal Engineering,HOD_APPROVED,35,45,HIGH,True,True,2023-06-30,13,2
+R0170,S5252,Mrs. Megan Meyer DDS,CSE,2022,Community whom without choose control argue itself audience.,VLSI,SUPERVISOR_APPROVED,28,38,MEDIUM,True,False,2023-06-09,8,4
+R0171,S3742,David Monroe,EEE,2024,Factor get away defense give.,Data Science,SUBMITTED,18,28,MEDIUM,False,False,2023-01-11,0,0
+R0172,S4923,Shannon Perez,CIVIL,2024,One great become.,Thermal Engineering,HOD_APPROVED,20,34,MEDIUM,True,True,2024-05-11,13,1
+R0173,S5818,Alexander Rios,CSE,2024,Line tend whatever black or.,Blockchain,SUBMITTED,19,33,MEDIUM,False,False,2023-03-12,0,2
+R0174,S7631,Linda Gutierrez,CSE,2024,Lawyer system offer officer order scene its.,Thermal Engineering,SUBMITTED,45,60,HIGH,False,False,2023-12-03,0,4
+R0175,S3628,Joshua Murray,CSE,2024,Me nation wonder officer beautiful memory thank future.,VLSI,DRAFT,40,52,HIGH,False,False,2023-02-11,0,3
+R0176,S9190,Christopher Lee,MECH,2023,Rest population per where it professor measure.,IoT,DRAFT,14,23,LOW,False,False,2024-01-22,0,3
+R0177,S1877,Mercedes Gomez,EEE,2023,Rock push ready off believe significant rate page.,Data Science,SUBMITTED,25,40,MEDIUM,False,False,2023-08-10,0,2
+R0178,S5344,Kathryn Grant,EEE,2023,However commercial push weight.,Blockchain,SUBMITTED,23,37,MEDIUM,False,False,2023-11-03,0,0
+R0179,S2053,Kelly Griffith,ECE,2023,Defense painting degree design card middle situation leg.,Data Science,SUPERVISOR_APPROVED,44,51,HIGH,True,False,2023-05-07,16,4
+R0180,S4356,William Parsons,ECE,2022,Consumer trade even situation.,Machine Learning,HOD_APPROVED,36,43,HIGH,True,True,2024-01-04,11,4
+R0181,S1550,Elizabeth Ramirez,ECE,2022,Will against how those bit generation always.,Data Science,DRAFT,43,49,HIGH,False,False,2023-06-07,0,3
+R0182,S2062,Christine Shah,ECE,2024,Else eight individual new just.,Renewable Energy,SUBMITTED,19,24,MEDIUM,False,False,2023-04-04,0,2
+R0183,S4498,Kimberly Jones,CIVIL,2022,Join low still phone local wall dream difference.,Renewable Energy,DRAFT,20,31,MEDIUM,False,False,2023-07-05,0,0
+R0184,S2891,Amanda Calhoun,CSE,2022,With near this show.,AI,HOD_APPROVED,27,33,MEDIUM,True,True,2023-02-09,5,1
+R0185,S2325,Amanda Hampton,ECE,2024,Relationship dog only how store owner later.,Machine Learning,SUBMITTED,44,53,HIGH,False,False,2024-03-01,0,2
+R0186,S4063,Jonathan Lloyd,EEE,2022,Money modern company.,Thermal Engineering,SUPERVISOR_APPROVED,39,47,HIGH,True,False,2023-11-13,7,4
+R0187,S8887,John Hernandez,ECE,2023,Draw edge little happen administration doctor carry.,Data Science,DRAFT,17,23,MEDIUM,False,False,2023-09-17,0,4
+R0188,S2904,Johnathan Carey,CIVIL,2024,Between meet beautiful very sign least simple.,VLSI,DRAFT,27,38,MEDIUM,False,False,2024-02-08,0,2
+R0189,S5449,Scott Smith,CSE,2024,Window bed record.,AI,SUBMITTED,15,21,MEDIUM,False,False,2023-03-14,0,0
+R0190,S6068,Christina Brown,ECE,2023,Actually development information simple environmental.,Renewable Energy,SUPERVISOR_APPROVED,28,33,MEDIUM,True,False,2023-08-05,9,2
+R0191,S6961,Jerry Martinez,CSE,2024,Class outside memory certainly of agency.,Machine Learning,SUBMITTED,33,44,HIGH,False,False,2023-05-21,0,1
+R0192,S1134,Jeremy Kelley,CIVIL,2023,Teacher realize subject strong fear.,Data Science,HOD_APPROVED,6,20,LOW,True,True,2023-03-22,19,4
+R0193,S7459,Brian Castaneda,ECE,2022,Out against fear thus.,AI,SUBMITTED,15,24,MEDIUM,False,False,2023-12-17,0,4
+R0194,S4600,Robert Young,ECE,2022,Million turn little music defense.,VLSI,SUBMITTED,21,36,MEDIUM,False,False,2023-12-10,0,2
+R0195,S9680,Paul Paul Jr.,CIVIL,2022,Owner upon industry lawyer visit true carry.,Cybersecurity,DRAFT,13,28,LOW,False,False,2023-11-08,0,1
+R0196,S3605,Christine Morgan,CSE,2024,Board attack our official reduce plan quality.,Cybersecurity,DRAFT,22,35,MEDIUM,False,False,2023-09-03,0,3
+R0197,S9679,Taylor Huynh,CSE,2024,Student task Republican medical kind.,AI,DRAFT,15,26,MEDIUM,False,False,2023-05-24,0,3
+R0198,S1118,Christopher Smith,CSE,2023,Ready issue hold off analysis officer son.,Data Science,HOD_APPROVED,23,36,MEDIUM,True,True,2024-02-12,17,4
+R0199,S8042,Kenneth Young,EEE,2022,Family popular maintain majority commercial painting.,Renewable Energy,HOD_APPROVED,7,19,LOW,True,True,2024-04-29,15,4
+R0200,S9887,Maurice Pham,ECE,2023,Country campaign stop support.,Cybersecurity,SUPERVISOR_APPROVED,9,21,LOW,True,False,2023-05-11,14,0
+R0201,S4636,Timothy Weaver,CIVIL,2022,Discuss car church sea open low cause.,Cybersecurity,DRAFT,5,16,LOW,False,False,2024-04-22,0,2
+R0202,S9233,Brooke Massey,EEE,2023,Program large including coach.,Cybersecurity,DRAFT,10,24,LOW,False,False,2023-09-01,0,2
+R0203,S2798,Monica Lambert,CIVIL,2023,Parent summer wrong.,Renewable Energy,SUPERVISOR_APPROVED,38,43,HIGH,True,False,2024-02-26,20,4
+R0204,S9525,Wanda Chang,MECH,2023,Factor clearly lot smile who interest.,Renewable Energy,SUBMITTED,6,20,LOW,False,False,2024-02-17,0,2
+R0205,S5593,Jason Lopez,CSE,2024,Leave career arm yes difficult hear.,Cybersecurity,DRAFT,19,34,MEDIUM,False,False,2023-06-11,0,1
+R0206,S7067,Robert Ellis,CIVIL,2022,Nor chance you reflect model.,Renewable Energy,SUBMITTED,14,26,LOW,False,False,2023-03-27,0,3
+R0207,S2939,Katie Mora,CSE,2024,Building produce difference blood whose part remain.,Data Science,HOD_APPROVED,37,52,HIGH,True,True,2023-07-08,15,3
+R0208,S3939,Adrienne Clark,CIVIL,2023,World benefit popular world discover.,Renewable Energy,DRAFT,35,49,HIGH,False,False,2023-08-24,0,3
+R0209,S5829,Marc Walker,CSE,2024,Store billion since partner.,Renewable Energy,SUBMITTED,12,20,LOW,False,False,2023-02-22,0,3
+R0210,S9878,Tracy Johnson,CSE,2024,Still truth finally culture.,Machine Learning,SUPERVISOR_APPROVED,8,22,LOW,True,False,2023-04-26,7,4
+R0211,S8553,Rebecca Martin,CSE,2023,Western fine physical opportunity attack rich.,AI,DRAFT,9,23,LOW,False,False,2024-03-22,0,0
+R0212,S4473,Theresa Morales,CIVIL,2022,Health government rather fine go develop game ever.,IoT,SUPERVISOR_APPROVED,28,42,MEDIUM,True,False,2024-03-10,8,1
+R0213,S5718,Benjamin Yoder,EEE,2022,Long sea leg own increase send.,Civil Structures,DRAFT,28,37,MEDIUM,False,False,2024-04-01,0,4
+R0214,S8076,Jill Sanchez,CSE,2022,Executive yourself physical.,Cybersecurity,HOD_APPROVED,12,18,LOW,True,True,2023-12-18,19,2
+R0215,S6311,Maria Greer,EEE,2022,Green interesting model mouth political long safe focus.,Cybersecurity,DRAFT,43,56,HIGH,False,False,2023-01-03,0,1
+R0216,S7304,Ronald Brown,CSE,2023,Month process indicate consumer.,Cybersecurity,DRAFT,45,52,HIGH,False,False,2023-04-11,0,4
+R0217,S5344,Paul Sloan,MECH,2023,Ago only situation hear theory today notice.,Blockchain,HOD_APPROVED,34,46,HIGH,True,True,2023-01-24,9,1
+R0218,S3551,Tami Walsh,CSE,2022,Life finally threat.,AI,SUPERVISOR_APPROVED,14,29,LOW,True,False,2023-05-16,12,0
+R0219,S2171,Andrew Jones,CSE,2022,Book after thought ten.,VLSI,HOD_APPROVED,34,46,HIGH,True,True,2024-02-16,10,1
+R0220,S4164,David Lane,CIVIL,2023,Reason author also list reason discuss clearly.,Machine Learning,SUPERVISOR_APPROVED,45,51,HIGH,True,False,2023-10-26,6,4
+R0221,S8710,James White,ECE,2024,Task enter fire none major camera.,VLSI,SUBMITTED,34,45,HIGH,False,False,2024-01-09,0,0
+R0222,S4639,Olivia Jackson,MECH,2022,Now style huge near any.,VLSI,DRAFT,13,25,LOW,False,False,2024-01-06,0,2
+R0223,S5886,Peter Crane,MECH,2024,Meet value consumer sure.,VLSI,HOD_APPROVED,29,40,MEDIUM,True,True,2023-06-24,5,2
+R0224,S2453,Phillip Roberts,CIVIL,2023,Position blood ahead.,Blockchain,DRAFT,16,29,MEDIUM,False,False,2023-08-12,0,3
+R0225,S1010,Matthew Hill,CSE,2023,Cost space scientist building term safe.,Renewable Energy,DRAFT,7,14,LOW,False,False,2023-06-19,0,1
+R0226,S8299,Meghan Hubbard,CSE,2023,That investment half price win.,Civil Structures,SUBMITTED,29,44,MEDIUM,False,False,2023-10-27,0,4
+R0227,S2903,Amy Massey,ECE,2024,Suggest agency send recent.,Data Science,DRAFT,42,48,HIGH,False,False,2024-04-12,0,1
+R0228,S1126,Catherine Anderson,EEE,2022,Determine example main recent from training.,Cybersecurity,DRAFT,28,34,MEDIUM,False,False,2023-12-03,0,1
+R0229,S2921,Maria Guerrero,ECE,2024,Door method future hundred here.,AI,HOD_APPROVED,29,34,MEDIUM,True,True,2023-02-07,16,0
+R0230,S9511,Chase Foster,CIVIL,2023,Method chance base customer character dark.,Data Science,SUBMITTED,11,18,LOW,False,False,2024-04-23,0,0
+R0231,S2439,Christina Hanson,MECH,2022,Kind catch more hundred Congress effect business and.,Machine Learning,HOD_APPROVED,38,51,HIGH,True,True,2024-02-22,19,3
+R0232,S2518,Michael Fox,ECE,2024,Pressure standard take democratic nature according thought.,Cybersecurity,SUPERVISOR_APPROVED,26,33,MEDIUM,True,False,2023-01-05,10,4
+R0233,S9027,Matthew Velasquez,ECE,2022,Cost watch fill now before ready.,Data Science,SUBMITTED,11,19,LOW,False,False,2023-08-07,0,1
+R0234,S1875,Leah Garcia DVM,ECE,2024,On true bag for live leg point beyond.,VLSI,HOD_APPROVED,11,17,LOW,True,True,2023-11-15,10,1
+R0235,S6306,Karen Johnson,EEE,2023,Standard least include cover growth.,Renewable Energy,DRAFT,12,24,LOW,False,False,2023-04-03,0,2
+R0236,S2174,Caleb Freeman,MECH,2023,Shake thank your fund choice.,AI,SUBMITTED,9,14,LOW,False,False,2023-01-17,0,2
+R0237,S7330,Thomas Davis,CSE,2022,Center too same town leave.,Cybersecurity,HOD_APPROVED,23,37,MEDIUM,True,True,2024-01-03,8,2
+R0238,S7997,Amanda Cabrera,CSE,2024,Page our exactly peace firm.,Renewable Energy,DRAFT,24,38,MEDIUM,False,False,2023-05-14,0,4
+R0239,S2182,David Payne,EEE,2022,Employee race network young way.,Civil Structures,HOD_APPROVED,35,43,HIGH,True,True,2023-03-08,8,0
+R0240,S8680,Kevin Campos,MECH,2023,Federal opportunity personal discuss.,Thermal Engineering,HOD_APPROVED,5,16,LOW,True,True,2024-01-13,9,4
+R0241,S3625,Jason Kirk,CIVIL,2023,If whose manager theory hotel item.,VLSI,SUPERVISOR_APPROVED,38,49,HIGH,True,False,2023-09-21,8,4
+R0242,S4885,Heidi Beltran,CSE,2022,It discuss myself population.,Civil Structures,DRAFT,32,39,HIGH,False,False,2023-03-15,0,2
+R0243,S4959,Eric Shah,MECH,2023,Much organization quality long.,Machine Learning,SUPERVISOR_APPROVED,19,33,MEDIUM,True,False,2023-05-25,11,4
+R0244,S5214,Laura Chavez,ECE,2023,Have order plan public.,Cybersecurity,SUPERVISOR_APPROVED,36,41,HIGH,True,False,2024-02-03,12,2
+R0245,S3189,Nicole Sampson,CSE,2023,Kind most create around miss.,Machine Learning,SUPERVISOR_APPROVED,10,15,LOW,True,False,2023-12-22,15,4
+R0246,S1805,Jordan Gonzalez,ECE,2024,This same whether free wide why.,Data Science,DRAFT,6,16,LOW,False,False,2024-05-05,0,1
+R0247,S7802,Andrea Wilkins,CSE,2023,Size score discuss.,Civil Structures,DRAFT,30,39,HIGH,False,False,2023-12-17,0,4
+R0248,S3767,Nicholas Kline Jr.,MECH,2022,Study hour nearly station recognize.,IoT,DRAFT,38,50,HIGH,False,False,2024-02-29,0,0
+R0249,S7055,Larry Santana,CSE,2022,Change fear teacher none sometimes wait join seem.,Renewable Energy,SUBMITTED,20,28,MEDIUM,False,False,2023-08-07,0,2
+R0250,S3914,Gabrielle Harper,CIVIL,2022,Arrive another daughter risk free decision especially.,Cybersecurity,SUBMITTED,26,33,MEDIUM,False,False,2024-05-05,0,2
+R0251,S8052,Debra Hernandez,ECE,2022,Wife attention phone call.,IoT,HOD_APPROVED,7,14,LOW,True,True,2024-01-27,10,3
+R0252,S4386,Jerry Ray,CSE,2024,Quickly environment window institution remain.,Civil Structures,HOD_APPROVED,27,37,MEDIUM,True,True,2024-04-24,13,0
+R0253,S4364,Noah Fisher,CSE,2024,Probably east everyone take north example.,Machine Learning,HOD_APPROVED,19,33,MEDIUM,True,True,2023-08-01,16,1
+R0254,S6598,Katherine Patel,CSE,2023,Strategy across find Congress mission only.,Renewable Energy,HOD_APPROVED,44,55,HIGH,True,True,2024-02-08,17,4
+R0255,S1921,Jillian Powers,ECE,2023,Politics month increase face subject sign.,AI,HOD_APPROVED,18,29,MEDIUM,True,True,2023-11-11,7,3
+R0256,S1255,Jeffrey Smith,CSE,2022,Society sing seek term.,Thermal Engineering,SUBMITTED,40,50,HIGH,False,False,2023-10-20,0,0
+R0257,S4610,Jeremy Bradshaw,ECE,2023,Most quite bit.,Thermal Engineering,SUBMITTED,15,23,MEDIUM,False,False,2023-03-26,0,1
+R0258,S2242,Ashley Vargas,CSE,2024,Power meet environmental read treatment accept factor.,Cybersecurity,HOD_APPROVED,14,23,LOW,True,True,2023-03-04,7,4
+R0259,S2444,Paula Tucker,ECE,2024,Whole soon gas.,VLSI,SUBMITTED,38,48,HIGH,False,False,2023-11-10,0,0
+R0260,S6330,Ashley Long,ECE,2023,Those administration focus mouth door image.,Data Science,HOD_APPROVED,33,47,HIGH,True,True,2023-03-24,5,2
+R0261,S5070,Justin Alexander,ECE,2022,Note position project research.,Data Science,HOD_APPROVED,16,21,MEDIUM,True,True,2023-09-06,15,3
+R0262,S2360,Zachary Medina,ECE,2022,Kid meeting suggest office person southern people peace.,Cybersecurity,DRAFT,21,32,MEDIUM,False,False,2024-04-05,0,0
+R0263,S1262,Jeffrey Bolton,CSE,2023,Close age nature follow growth arrive tell.,Data Science,DRAFT,19,29,MEDIUM,False,False,2023-09-01,0,4
+R0264,S7066,Michael Hartman,ECE,2023,Information citizen receive sing loss story fish cost.,Data Science,SUPERVISOR_APPROVED,37,52,HIGH,True,False,2023-09-02,9,0
+R0265,S9049,Joseph Schaefer,MECH,2023,Former effort experience sport method call.,Blockchain,DRAFT,45,59,HIGH,False,False,2023-08-24,0,0
+R0266,S5867,Scott Alexander,CIVIL,2023,Guess something work song hair fight.,IoT,HOD_APPROVED,20,35,MEDIUM,True,True,2023-01-12,20,1
+R0267,S3191,Jacqueline Bruce,MECH,2022,Happy bar work politics.,AI,DRAFT,26,39,MEDIUM,False,False,2023-03-03,0,3
+R0268,S3078,Bruce Morris,CSE,2024,Turn that month station meet account bring.,Blockchain,DRAFT,35,50,HIGH,False,False,2023-08-30,0,2
+R0269,S4569,Mrs. Yolanda Matthews,CSE,2023,Home cause worker.,VLSI,DRAFT,18,24,MEDIUM,False,False,2023-02-24,0,1
+R0270,S9810,Jennifer Drake,CSE,2024,Yes interesting side south notice near reality.,Cybersecurity,SUBMITTED,31,39,HIGH,False,False,2023-03-28,0,4
+R0271,S7697,Monica Mack,CIVIL,2022,Door drop area trip.,Civil Structures,HOD_APPROVED,34,47,HIGH,True,True,2024-04-18,6,3
+R0272,S9608,Nancy Bowman,CIVIL,2022,Purpose race industry sit low.,Renewable Energy,HOD_APPROVED,19,27,MEDIUM,True,True,2023-08-24,20,0
+R0273,S3411,William Mullins,ECE,2024,State generation myself second.,Blockchain,SUBMITTED,29,37,MEDIUM,False,False,2023-06-17,0,0
+R0274,S9709,Katrina Bennett,ECE,2023,Amount buy job food discover whom.,AI,SUBMITTED,7,16,LOW,False,False,2023-06-16,0,1
+R0275,S7787,Jason Lee,CSE,2024,Audience doctor your each western ground.,Civil Structures,DRAFT,27,33,MEDIUM,False,False,2023-10-01,0,3
+R0276,S8768,Renee Gomez,CSE,2022,Often case and risk democratic.,Data Science,HOD_APPROVED,43,48,HIGH,True,True,2023-08-29,19,3
+R0277,S4814,Monica Schmidt,MECH,2023,Rate situation rich fish.,AI,DRAFT,15,21,MEDIUM,False,False,2023-06-13,0,4
+R0278,S2801,Tracy Washington,ECE,2022,Hair attack mind thousand third suggest protect.,Blockchain,SUPERVISOR_APPROVED,42,52,HIGH,True,False,2023-10-11,12,4
+R0279,S4843,Robert Black,ECE,2024,Change play raise term simple weight.,VLSI,SUBMITTED,19,33,MEDIUM,False,False,2024-01-27,0,4
+R0280,S7698,Stephanie Padilla,EEE,2024,Performance society television their.,Civil Structures,DRAFT,30,36,HIGH,False,False,2023-01-27,0,3
+R0281,S4730,Hannah Collins,CSE,2024,American house speak thus continue entire.,Civil Structures,SUBMITTED,38,50,HIGH,False,False,2023-11-17,0,0
+R0282,S2699,Stephen Sharp,CSE,2024,Security stuff tend community huge various discover structure.,Data Science,SUPERVISOR_APPROVED,8,16,LOW,True,False,2023-12-25,12,2
+R0283,S5803,Jonathan Powers,MECH,2022,Bar law information live.,Cybersecurity,DRAFT,6,19,LOW,False,False,2023-07-30,0,4
+R0284,S1599,Michael Ellis,MECH,2024,Focus to million.,Data Science,SUPERVISOR_APPROVED,34,44,HIGH,True,False,2023-01-04,11,3
+R0285,S8871,Veronica Campbell,CSE,2024,Large usually effort audience pass through rate rise.,Data Science,SUBMITTED,44,51,HIGH,False,False,2023-01-09,0,3
+R0286,S4832,Melissa Burke,MECH,2022,Themselves improve camera rule day information money affect.,Data Science,SUPERVISOR_APPROVED,30,42,HIGH,True,False,2024-02-26,7,1
+R0287,S4545,Hector Murphy,CSE,2024,Example explain design.,Blockchain,SUPERVISOR_APPROVED,44,49,HIGH,True,False,2023-06-27,11,1
+R0288,S9375,Jeremy Gomez,MECH,2023,Lose lot every marriage do painting increase.,VLSI,DRAFT,36,43,HIGH,False,False,2023-02-20,0,4
+R0289,S6177,Roberto Robles,MECH,2022,Drug interest ahead camera around price successful.,Data Science,SUPERVISOR_APPROVED,19,28,MEDIUM,True,False,2024-04-04,13,4
+R0290,S3626,Dr. Timothy Thomas,EEE,2024,Since show production now weight important same.,Data Science,SUPERVISOR_APPROVED,10,24,LOW,True,False,2024-02-04,15,4
+R0291,S5968,Sarah Scott,ECE,2024,Human owner water meeting argue finally fish.,AI,SUPERVISOR_APPROVED,30,43,HIGH,True,False,2023-09-13,8,0
+R0292,S5005,Gloria Perez,CIVIL,2024,Fish middle then measure day approach with.,Data Science,HOD_APPROVED,22,29,MEDIUM,True,True,2023-02-11,8,4
+R0293,S3524,Amanda Forbes,CSE,2022,Alone great author cell blue its.,Blockchain,SUBMITTED,27,33,MEDIUM,False,False,2023-07-01,0,2
+R0294,S7067,Linda Mills,ECE,2022,Agreement best much shake these contain similar.,Thermal Engineering,SUBMITTED,14,25,LOW,False,False,2023-01-06,0,4
+R0295,S3522,Samantha Campbell,CIVIL,2023,Perform there speak defense challenge ok.,Blockchain,SUBMITTED,8,22,LOW,False,False,2023-12-22,0,3
+R0296,S6933,Cheryl Johnson,ECE,2024,Know quickly radio better only operation grow dinner.,Renewable Energy,HOD_APPROVED,24,30,MEDIUM,True,True,2024-04-04,14,3
+R0297,S3806,Maria Taylor,CSE,2024,Recently close push trial trial window direction.,Civil Structures,SUPERVISOR_APPROVED,41,46,HIGH,True,False,2023-01-08,17,4
+R0298,S1372,Jacob Johnson,MECH,2024,Rise reduce system foot.,Cybersecurity,SUPERVISOR_APPROVED,11,17,LOW,True,False,2023-10-12,6,0
+R0299,S2206,Carla Flores,CSE,2024,Me dinner relationship stock anything.,Blockchain,SUPERVISOR_APPROVED,12,25,LOW,True,False,2023-09-19,5,2
+R0300,S3706,Christina Hunt,CIVIL,2024,Establish affect treatment cost.,AI,SUPERVISOR_APPROVED,33,40,HIGH,True,False,2023-12-07,12,2
+R0301,S4684,James Brooks,CSE,2022,Big in television change college.,Cybersecurity,SUBMITTED,5,12,LOW,False,False,2023-07-04,0,2
+R0302,S1462,Thomas Burke,ECE,2024,Common material lead manage market.,VLSI,SUPERVISOR_APPROVED,8,23,LOW,True,False,2024-04-17,20,3
+R0303,S6636,Sarah Green,CSE,2022,Shoulder part possible modern field.,Civil Structures,DRAFT,35,47,HIGH,False,False,2024-05-12,0,0
+R0304,S3397,Cynthia Flores,CIVIL,2022,Land wrong step father.,Cybersecurity,SUPERVISOR_APPROVED,28,43,MEDIUM,True,False,2024-02-02,16,3
+R0305,S2106,Michael Lucas,EEE,2022,Result church spring again again increase indicate.,AI,DRAFT,40,48,HIGH,False,False,2024-04-27,0,1
+R0306,S6479,Samuel Shepherd,ECE,2023,Will moment use adult offer voice dinner.,Blockchain,SUPERVISOR_APPROVED,29,38,MEDIUM,True,False,2023-06-27,6,1
+R0307,S7623,Audrey Kim,CIVIL,2023,Up Democrat large defense prove form.,IoT,HOD_APPROVED,44,55,HIGH,True,True,2024-02-26,14,0
+R0308,S6528,Alice Price,CSE,2022,From option mouth receive fund kid.,Data Science,HOD_APPROVED,15,21,MEDIUM,True,True,2024-03-26,11,3
+R0309,S5200,Jeffrey Hess,MECH,2023,Little two buy human and cell.,IoT,SUBMITTED,31,38,HIGH,False,False,2023-03-04,0,4
+R0310,S5560,Darren Johnson,CSE,2024,Challenge various decide small and.,Thermal Engineering,DRAFT,29,42,MEDIUM,False,False,2023-05-05,0,2
+R0311,S2495,Kristen Smith,MECH,2022,He perform station.,Cybersecurity,DRAFT,42,54,HIGH,False,False,2023-01-15,0,0
+R0312,S4564,Robert Ruiz,ECE,2024,Teach hit international practice.,Data Science,HOD_APPROVED,37,45,HIGH,True,True,2023-03-01,19,3
+R0313,S4579,April Watkins,CSE,2022,Candidate reason follow admit fly according.,AI,SUBMITTED,26,34,MEDIUM,False,False,2023-10-26,0,1
+R0314,S6605,Emily Hensley,CSE,2023,Eat drive follow quickly war.,AI,DRAFT,6,13,LOW,False,False,2024-05-04,0,4
+R0315,S9240,Danielle Beard,MECH,2024,Personal indicate road hour drive use.,Blockchain,HOD_APPROVED,44,54,HIGH,True,True,2023-03-01,8,0
+R0316,S4488,Johnny Medina,ECE,2023,Rock road trip young citizen human.,Cybersecurity,SUBMITTED,44,54,HIGH,False,False,2023-09-25,0,4
+R0317,S6560,Adam Jones,EEE,2024,Change probably care always choose organization everyone.,IoT,SUBMITTED,40,53,HIGH,False,False,2024-04-19,0,0
+R0318,S6487,Ryan Thornton,ECE,2022,Party apply remain college try look wish.,Renewable Energy,HOD_APPROVED,25,39,MEDIUM,True,True,2023-04-23,5,2
+R0319,S9381,Erin Bond,CSE,2022,Knowledge meeting whatever read third blue.,Civil Structures,HOD_APPROVED,21,28,MEDIUM,True,True,2023-05-01,9,3
+R0320,S2460,David Vaughn,CIVIL,2023,Choice health sell success price.,Cybersecurity,DRAFT,13,22,LOW,False,False,2023-03-16,0,2
+R0321,S9444,Glenda Deleon,ECE,2024,Reflect plant education chance.,Thermal Engineering,DRAFT,34,49,HIGH,False,False,2023-01-27,0,0
+R0322,S2484,Eric Clark,MECH,2022,Reveal always still probably stuff.,Thermal Engineering,SUBMITTED,24,32,MEDIUM,False,False,2023-12-19,0,1
+R0323,S3445,Cynthia Jones,MECH,2023,Owner mean yes scientist form a bad.,Blockchain,SUBMITTED,32,38,HIGH,False,False,2024-01-12,0,2
+R0324,S4915,Dr. Jennifer Mclean MD,CIVIL,2023,Plan poor central form then front name.,Renewable Energy,SUBMITTED,40,49,HIGH,False,False,2023-08-06,0,1
+R0325,S3110,Anthony Turner,CIVIL,2022,Indeed campaign produce general strategy president brother.,Thermal Engineering,SUBMITTED,37,50,HIGH,False,False,2023-08-28,0,1
+R0326,S3546,Gregory Bryant,MECH,2023,Simple education article around fact.,VLSI,DRAFT,16,23,MEDIUM,False,False,2023-06-10,0,0
+R0327,S7632,Melissa Garcia,ECE,2023,Read first discussion instead standard if.,Civil Structures,SUPERVISOR_APPROVED,39,46,HIGH,True,False,2023-11-13,20,2
+R0328,S6371,Angela Michael,ECE,2023,Trial case fact story thank force across.,Data Science,DRAFT,18,25,MEDIUM,False,False,2023-10-07,0,4
+R0329,S1889,Jennifer West,CSE,2022,Here grow report radio.,Renewable Energy,DRAFT,39,52,HIGH,False,False,2024-01-17,0,2
+R0330,S2411,Cheryl Brown,CSE,2023,Power kid cause tough Mrs eye life financial.,Renewable Energy,DRAFT,17,25,MEDIUM,False,False,2023-11-07,0,4
+R0331,S2700,Regina Wolfe,EEE,2022,Edge they someone avoid movie.,VLSI,HOD_APPROVED,7,17,LOW,True,True,2023-10-25,7,0
+R0332,S6075,Jessica Martin,CSE,2023,General apply piece personal of rise.,Thermal Engineering,DRAFT,43,57,HIGH,False,False,2023-04-09,0,4
+R0333,S8654,Andrew Williams,ECE,2024,Open hospital from financial.,Machine Learning,SUPERVISOR_APPROVED,37,43,HIGH,True,False,2023-01-15,11,1
+R0334,S9199,James Walker,ECE,2022,Care between term wind.,VLSI,DRAFT,12,17,LOW,False,False,2023-06-10,0,4
+R0335,S4764,Martin Dunn,ECE,2023,Check fall citizen account standard.,Civil Structures,SUBMITTED,8,14,LOW,False,False,2023-09-09,0,3
+R0336,S1993,Christina Glover,MECH,2022,Financial successful hour wish blue.,Cybersecurity,DRAFT,37,42,HIGH,False,False,2023-04-25,0,1
+R0337,S7753,Sharon Rich,CSE,2022,Develop security reduce forward west that operation.,IoT,SUPERVISOR_APPROVED,13,22,LOW,True,False,2023-12-14,8,4
+R0338,S3021,Lisa George,CSE,2022,Performance wonder break determine.,Data Science,SUPERVISOR_APPROVED,39,47,HIGH,True,False,2023-11-20,15,1
+R0339,S5364,Loretta Oliver,MECH,2024,Operation yourself smile loss minute affect follow.,Civil Structures,DRAFT,22,31,MEDIUM,False,False,2024-03-12,0,2
+R0340,S7352,Brittany Byrd,MECH,2024,Speak what art guy if mission wear government.,AI,SUPERVISOR_APPROVED,11,21,LOW,True,False,2024-01-31,15,3
+R0341,S8734,Amanda Zuniga,CIVIL,2023,Artist or last case fine.,Blockchain,SUPERVISOR_APPROVED,8,20,LOW,True,False,2023-10-20,8,3
+R0342,S4960,Glenn Savage,EEE,2022,Meeting increase like through.,Thermal Engineering,SUBMITTED,20,33,MEDIUM,False,False,2024-05-10,0,3
+R0343,S5938,Sarah Stanley,ECE,2023,Threat affect despite water dream her serve.,Blockchain,SUBMITTED,32,46,HIGH,False,False,2024-05-10,0,3
+R0344,S7252,Aaron Chavez,CSE,2024,Continue edge down significant hope I.,Thermal Engineering,SUBMITTED,27,38,MEDIUM,False,False,2023-01-29,0,1
+R0345,S3598,Kenneth Davis,CIVIL,2024,Fund civil degree blue if employee step establish.,Data Science,SUBMITTED,17,25,MEDIUM,False,False,2024-05-01,0,2
+R0346,S9177,Jennifer Knight,ECE,2022,Material day campaign hope environmental study data.,Renewable Energy,DRAFT,24,31,MEDIUM,False,False,2024-04-25,0,0
+R0347,S2319,Brianna Anderson,CSE,2022,Represent eye development certainly example science.,VLSI,SUBMITTED,6,21,LOW,False,False,2024-01-13,0,0
+R0348,S5482,Kevin Robles,CSE,2023,No left give development charge responsibility.,Data Science,SUBMITTED,37,46,HIGH,False,False,2024-02-26,0,3
+R0349,S5659,Benjamin Wong,EEE,2024,Summer others sea difficult near yet skin.,IoT,HOD_APPROVED,9,15,LOW,True,True,2023-09-19,18,4
+R0350,S5356,Jason Escobar,ECE,2023,Full study table situation camera approach.,VLSI,SUBMITTED,16,25,MEDIUM,False,False,2023-12-14,0,4
+R0351,S7813,Melissa Johnson,MECH,2023,Office building staff fish long themselves pay.,Blockchain,HOD_APPROVED,27,33,MEDIUM,True,True,2023-12-18,17,2
+R0352,S2668,Zachary Sanders,ECE,2022,Season suffer right room.,Civil Structures,DRAFT,24,33,MEDIUM,False,False,2024-01-17,0,3
+R0353,S7201,Nathan Torres,CSE,2023,Republican mean statement or upon entire.,AI,SUPERVISOR_APPROVED,45,51,HIGH,True,False,2023-02-06,17,4
+R0354,S4079,Michael Fisher,ECE,2023,Also deep art idea.,Civil Structures,SUPERVISOR_APPROVED,18,31,MEDIUM,True,False,2024-04-21,14,2
+R0355,S6750,Brendan Cobb,MECH,2023,Fund rest tend your safe conference he.,Thermal Engineering,SUPERVISOR_APPROVED,6,17,LOW,True,False,2023-04-20,6,3
+R0356,S1255,Natalie Gonzalez,MECH,2024,Before southern loss sense least film somebody write.,IoT,DRAFT,26,34,MEDIUM,False,False,2023-05-29,0,0
+R0357,S5068,Jeremy Ruiz,ECE,2022,Discussion treatment phone here hospital.,Renewable Energy,SUPERVISOR_APPROVED,34,45,HIGH,True,False,2023-04-29,15,3
+R0358,S7231,Elizabeth Weber,MECH,2024,Become case event five.,Cybersecurity,SUBMITTED,31,37,HIGH,False,False,2023-02-22,0,0
+R0359,S7420,James Dudley,CSE,2022,Pm too into half conference stock site.,AI,SUPERVISOR_APPROVED,11,17,LOW,True,False,2024-05-05,14,2
+R0360,S8847,Sharon Mullins,CIVIL,2024,Radio onto head.,IoT,SUBMITTED,35,40,HIGH,False,False,2024-03-22,0,2
+R0361,S4939,Gregory Bailey,ECE,2022,Friend argue whatever ask dinner.,Blockchain,SUBMITTED,6,18,LOW,False,False,2023-08-09,0,4
+R0362,S2573,Amanda Sanchez,CSE,2023,Here upon spring range clearly page.,Cybersecurity,SUBMITTED,10,20,LOW,False,False,2023-09-26,0,4
+R0363,S1778,Michael Shepherd,MECH,2022,Green product crime responsibility partner heavy.,Blockchain,HOD_APPROVED,40,53,HIGH,True,True,2024-02-20,10,1
+R0364,S9393,Alexander Houston,ECE,2023,Building success major common interest experience TV.,Thermal Engineering,SUPERVISOR_APPROVED,43,52,HIGH,True,False,2023-06-20,8,4
+R0365,S7139,Rick Oliver,CIVIL,2023,Room lose appear discussion possible class.,Blockchain,HOD_APPROVED,37,42,HIGH,True,True,2023-11-21,5,4
+R0366,S6936,Justin Hess,CSE,2023,Action hard ball.,Blockchain,HOD_APPROVED,31,39,HIGH,True,True,2023-08-11,18,2
+R0367,S4158,Breanna Garcia,MECH,2024,Half threat attorney way.,IoT,SUPERVISOR_APPROVED,20,32,MEDIUM,True,False,2023-11-09,12,4
+R0368,S1008,Jennifer Wright,EEE,2024,Something heart energy author student national real star.,Cybersecurity,SUBMITTED,7,14,LOW,False,False,2023-05-15,0,1
+R0369,S6403,Amber Wu,ECE,2024,Simply real job writer firm really figure treatment.,Thermal Engineering,DRAFT,42,57,HIGH,False,False,2023-12-23,0,3
+R0370,S1107,Nathaniel Dunn,EEE,2023,Have right land with care through hot voice.,Civil Structures,SUBMITTED,41,51,HIGH,False,False,2024-02-22,0,3
+R0371,S1310,Melanie Lawson,MECH,2023,Girl six alone human pressure without program together.,AI,SUPERVISOR_APPROVED,20,28,MEDIUM,True,False,2023-03-09,6,0
+R0372,S2734,Rodney Lewis,CSE,2022,Black gun red material provide believe bar.,AI,SUPERVISOR_APPROVED,29,37,MEDIUM,True,False,2023-02-13,7,3
+R0373,S2805,Alan Dixon,MECH,2023,Want politics policy.,Machine Learning,DRAFT,18,30,MEDIUM,False,False,2023-11-21,0,0
+R0374,S2759,Matthew Compton,CSE,2022,One it realize relationship cup two listen.,Thermal Engineering,SUPERVISOR_APPROVED,40,46,HIGH,True,False,2023-05-12,14,3
+R0375,S1955,Brandi Johnson,MECH,2024,Instead pass region very deep.,Cybersecurity,SUPERVISOR_APPROVED,11,20,LOW,True,False,2023-12-02,19,0
+R0376,S4669,James Kelly,CIVIL,2023,For personal area those drug and section.,Machine Learning,SUPERVISOR_APPROVED,15,21,MEDIUM,True,False,2023-11-21,16,2
+R0377,S4935,Jonathan Dodson,CSE,2023,Sport receive team stuff executive toward.,VLSI,HOD_APPROVED,17,25,MEDIUM,True,True,2023-01-23,11,4
+R0378,S3520,Calvin Campos,ECE,2024,Body worker create suddenly opportunity expect.,Blockchain,HOD_APPROVED,5,13,LOW,True,True,2024-02-20,12,4
+R0379,S9729,Nicholas White PhD,ECE,2023,Value north reveal eat.,Machine Learning,DRAFT,44,50,HIGH,False,False,2023-12-11,0,3
+R0380,S2636,James Glenn,EEE,2024,Rate several use hot data charge.,Data Science,SUBMITTED,35,42,HIGH,False,False,2023-09-06,0,4
+R0381,S5444,Charles Wilson,CSE,2024,Organization technology the their office field station professor.,Civil Structures,SUPERVISOR_APPROVED,30,45,HIGH,True,False,2023-08-26,6,1
+R0382,S6517,Gail Nichols,ECE,2023,Management light certainly total process yet.,AI,SUBMITTED,27,37,MEDIUM,False,False,2023-01-25,0,0
+R0383,S8895,Jeffrey Ware,ECE,2023,Worry energy eye among.,Cybersecurity,SUBMITTED,17,23,MEDIUM,False,False,2023-11-10,0,0
+R0384,S8123,Carrie Oneal,MECH,2024,Show call with everybody inside perhaps writer.,Thermal Engineering,SUBMITTED,22,28,MEDIUM,False,False,2023-05-25,0,4
+R0385,S2860,Michelle Mccormick,MECH,2024,Take trial leader chance.,Thermal Engineering,DRAFT,37,44,HIGH,False,False,2023-02-21,0,3
+R0386,S9097,Jackie Davila,EEE,2022,Recently once development college describe teach return.,Renewable Energy,SUBMITTED,25,31,MEDIUM,False,False,2024-02-02,0,4
+R0387,S6512,Brian Ellis,ECE,2022,Result that so theory.,Renewable Energy,DRAFT,37,51,HIGH,False,False,2023-09-15,0,2
+R0388,S3203,Dr. Beverly Griffin,CSE,2022,Smile sport turn offer force.,Data Science,SUPERVISOR_APPROVED,28,33,MEDIUM,True,False,2024-03-05,17,1
+R0389,S6881,Sonya Salazar,ECE,2024,Never different fight work no.,Cybersecurity,HOD_APPROVED,25,30,MEDIUM,True,True,2023-02-19,5,3
+R0390,S6015,Katrina Paul,CSE,2024,Ready successful power list bar center question on.,Machine Learning,DRAFT,29,37,MEDIUM,False,False,2023-01-31,0,1
+R0391,S1016,Kyle Aguirre,CIVIL,2024,Through write ahead may sell far return debate.,IoT,SUPERVISOR_APPROVED,11,22,LOW,True,False,2023-04-20,13,2
+R0392,S4639,Anna Hayes,CSE,2023,In even claim military mother subject.,Renewable Energy,SUBMITTED,32,38,HIGH,False,False,2023-05-22,0,1
+R0393,S7350,Grant Walter,MECH,2023,Look get media consumer talk.,Renewable Energy,SUPERVISOR_APPROVED,12,25,LOW,True,False,2023-07-07,5,3
+R0394,S8246,Robert Buchanan,CSE,2024,Statement per future draw.,Data Science,DRAFT,9,18,LOW,False,False,2024-04-14,0,2
+R0395,S6899,Pamela Nguyen,EEE,2022,Model leader marriage police financial also.,IoT,DRAFT,35,40,HIGH,False,False,2023-11-04,0,3
+R0396,S8918,Elizabeth Simon,EEE,2023,Fill energy kind successful.,Machine Learning,SUBMITTED,40,45,HIGH,False,False,2023-02-03,0,0
+R0397,S7030,Sarah Johnson,CSE,2024,Over special author green big technology soldier morning.,AI,SUBMITTED,24,30,MEDIUM,False,False,2023-04-09,0,0
+R0398,S9830,Rebecca Jimenez,MECH,2022,Smile down along small market.,AI,SUPERVISOR_APPROVED,8,16,LOW,True,False,2023-01-28,12,0
+R0399,S6515,John Townsend,CSE,2024,Contain somebody second rise particular growth imagine.,Cybersecurity,SUBMITTED,18,24,MEDIUM,False,False,2023-01-11,0,3
+R0400,S2784,Dr. Susan Walker MD,CSE,2023,Anything cold tell rate item state four.,Machine Learning,SUPERVISOR_APPROVED,14,25,LOW,True,False,2024-04-03,11,3
+R0401,S5887,Kevin Smith,MECH,2023,Wind land window.,Thermal Engineering,DRAFT,29,38,MEDIUM,False,False,2023-08-27,0,0
+R0402,S1553,Samantha Brown,MECH,2024,Or degree prepare choice economy pressure.,IoT,SUBMITTED,29,41,MEDIUM,False,False,2023-05-28,0,2
+R0403,S4314,Hannah Rodriguez,CSE,2023,Between region design while while individual wide.,AI,SUPERVISOR_APPROVED,42,52,HIGH,True,False,2023-03-30,15,4
+R0404,S9191,Benjamin Gillespie,CSE,2022,Sit religious guess key.,Cybersecurity,DRAFT,7,12,LOW,False,False,2023-04-13,0,1
+R0405,S3999,Joshua Hoover,CSE,2023,Statement up shoulder too statement then item.,Thermal Engineering,HOD_APPROVED,21,35,MEDIUM,True,True,2024-03-20,6,1
+R0406,S8326,Charles Oliver,MECH,2024,Dog late rate.,Cybersecurity,HOD_APPROVED,18,32,MEDIUM,True,True,2023-08-26,9,2
+R0407,S4234,Dylan Mueller,MECH,2024,Inside last modern he price fact sit.,Machine Learning,SUPERVISOR_APPROVED,41,49,HIGH,True,False,2023-09-01,12,3
+R0408,S8876,Nathan Chavez,ECE,2024,Goal special concern few because raise.,Blockchain,HOD_APPROVED,6,11,LOW,True,True,2023-02-15,7,4
+R0409,S9691,Megan Price,CSE,2024,Full information water speech involve.,Renewable Energy,SUPERVISOR_APPROVED,38,51,HIGH,True,False,2023-05-11,14,1
+R0410,S6013,Linda Harding,ECE,2022,Stock matter we.,Renewable Energy,DRAFT,22,33,MEDIUM,False,False,2023-12-18,0,4
+R0411,S5185,Bethany Williams,CSE,2023,Second happen technology budget fact star those.,Civil Structures,DRAFT,32,46,HIGH,False,False,2023-04-20,0,2
+R0412,S1899,Sarah Anderson,CIVIL,2022,Main raise source condition no manager.,Thermal Engineering,SUPERVISOR_APPROVED,13,27,LOW,True,False,2023-08-07,11,1
+R0413,S9825,Barbara Stewart,ECE,2024,Capital maintain source despite.,Data Science,DRAFT,33,44,HIGH,False,False,2024-03-17,0,1
+R0414,S7676,Matthew Colon,MECH,2022,Center performance seat determine throw worker laugh.,AI,DRAFT,34,45,HIGH,False,False,2023-09-21,0,0
+R0415,S7532,Sophia Duncan,CIVIL,2023,Argue know anything community.,Blockchain,SUBMITTED,40,47,HIGH,False,False,2023-08-07,0,3
+R0416,S3646,Robert Yates,CIVIL,2022,Small hospital democratic wind describe put author measure.,VLSI,DRAFT,19,30,MEDIUM,False,False,2024-03-06,0,4
+R0417,S6381,Mr. Matthew Johnson DDS,ECE,2023,And energy use travel knowledge enjoy others.,AI,HOD_APPROVED,43,56,HIGH,True,True,2023-05-09,17,0
+R0418,S5151,Jennifer Jensen,EEE,2023,Member friend American now plant.,Civil Structures,HOD_APPROVED,9,17,LOW,True,True,2023-08-13,13,0
+R0419,S6833,Philip Gates,MECH,2022,Speak mission now side.,Blockchain,SUPERVISOR_APPROVED,41,56,HIGH,True,False,2023-08-02,12,3
+R0420,S1958,Brooke Taylor,CSE,2023,Figure course family improve.,Thermal Engineering,DRAFT,22,28,MEDIUM,False,False,2023-04-24,0,2
+R0421,S2051,Brenda Castillo,CSE,2024,Record fact part blood use.,Machine Learning,SUPERVISOR_APPROVED,8,21,LOW,True,False,2023-02-05,20,0
+R0422,S4217,Tyler Ramos,CSE,2022,Better drop because pay form page.,AI,HOD_APPROVED,6,21,LOW,True,True,2023-05-23,18,4
+R0423,S8961,Julie Morales,EEE,2022,Drug take leave education.,Civil Structures,SUBMITTED,20,27,MEDIUM,False,False,2023-04-01,0,2
+R0424,S5828,Allison Luna,CSE,2023,Test will deal almost arrive story avoid until.,Data Science,HOD_APPROVED,23,33,MEDIUM,True,True,2023-08-08,11,3
+R0425,S4585,Julian Rice,ECE,2023,Employee from hospital full.,Thermal Engineering,DRAFT,38,46,HIGH,False,False,2023-07-05,0,4
+R0426,S8969,Lisa Hood,ECE,2023,Green this expect road step garden particular.,Thermal Engineering,SUPERVISOR_APPROVED,9,21,LOW,True,False,2023-03-19,14,4
+R0427,S3235,Alexandria Harris,ECE,2022,Nice career together meeting.,Renewable Energy,DRAFT,43,56,HIGH,False,False,2023-10-08,0,2
+R0428,S3894,Beverly Ward,CSE,2024,Adult experience trouble add stock week.,Thermal Engineering,SUPERVISOR_APPROVED,37,42,HIGH,True,False,2023-06-04,17,1
+R0429,S1088,Nicole Holt,CSE,2023,Military about performance course care improve whom.,IoT,SUPERVISOR_APPROVED,28,42,MEDIUM,True,False,2023-01-12,16,1
+R0430,S3834,Jonathan Allen,ECE,2023,Region letter artist poor.,Thermal Engineering,DRAFT,41,52,HIGH,False,False,2024-01-04,0,3
+R0431,S7575,Miguel Brown,ECE,2024,Person can source each according nothing personal development.,AI,DRAFT,5,14,LOW,False,False,2023-09-22,0,4
+R0432,S1007,Courtney Cruz,CIVIL,2022,Agency the son as surface least.,Thermal Engineering,SUPERVISOR_APPROVED,44,53,HIGH,True,False,2023-06-26,10,3
+R0433,S1826,Matthew Hampton,CIVIL,2024,Capital foot fact perhaps production.,Civil Structures,DRAFT,21,34,MEDIUM,False,False,2023-06-18,0,1
+R0434,S9352,Ashley Bennett,CSE,2022,Road image space serve care.,Thermal Engineering,SUBMITTED,27,41,MEDIUM,False,False,2023-02-12,0,4
+R0435,S5925,Kyle Mendoza,CSE,2023,Between campaign product member receive.,Renewable Energy,SUPERVISOR_APPROVED,13,20,LOW,True,False,2024-03-03,6,3
+R0436,S8572,Melissa Turner,CSE,2024,Sort case question traditional car him.,Data Science,SUPERVISOR_APPROVED,16,25,MEDIUM,True,False,2023-05-06,18,3
+R0437,S2942,Frank Woods DDS,CSE,2023,Coach home lose.,Renewable Energy,HOD_APPROVED,32,42,HIGH,True,True,2024-04-29,15,1
+R0438,S5963,Taylor Bell,MECH,2024,Billion number address.,Civil Structures,SUPERVISOR_APPROVED,41,53,HIGH,True,False,2023-07-14,9,2
+R0439,S6786,Kevin Fitzgerald,CSE,2023,Career mouth hotel street rule.,Renewable Energy,DRAFT,32,42,HIGH,False,False,2023-11-29,0,0
+R0440,S3517,Oscar Osborne,CSE,2024,Chair budget available.,Thermal Engineering,SUPERVISOR_APPROVED,39,48,HIGH,True,False,2023-01-13,13,1
+R0441,S2532,Marc Lewis,ECE,2022,Hold of religious serious.,AI,SUBMITTED,25,33,MEDIUM,False,False,2024-02-09,0,4
+R0442,S5327,Justin Vasquez,CIVIL,2024,Shoulder continue keep subject.,IoT,HOD_APPROVED,28,40,MEDIUM,True,True,2023-03-28,8,1
+R0443,S6511,Rachael Marks,MECH,2023,Voice picture add.,Machine Learning,HOD_APPROVED,8,20,LOW,True,True,2023-08-26,9,1
+R0444,S9177,Russell Jones,CSE,2024,Cut treat could for.,Machine Learning,SUPERVISOR_APPROVED,42,53,HIGH,True,False,2023-02-18,17,3
+R0445,S3966,Brooke Brown MD,CSE,2023,His especially decision.,Cybersecurity,SUPERVISOR_APPROVED,20,35,MEDIUM,True,False,2023-03-23,19,3
+R0446,S7681,Dawn Ray,ECE,2022,Pressure go close wait day.,Civil Structures,SUBMITTED,38,52,HIGH,False,False,2023-09-10,0,1
+R0447,S9574,Heather Tanner,CSE,2024,Indeed popular garden true southern perform go ground.,AI,SUBMITTED,12,24,LOW,False,False,2023-09-26,0,3
+R0448,S6102,Andrew George,EEE,2023,Hair current music western.,Thermal Engineering,DRAFT,37,48,HIGH,False,False,2023-11-08,0,3
+R0449,S2617,Jamie Frey,ECE,2024,Wide season finally consumer sing.,Machine Learning,HOD_APPROVED,13,20,LOW,True,True,2023-04-12,11,0
+R0450,S5106,Jeremy Perry,CSE,2023,Brother middle skin skin campaign standard age environment.,IoT,SUPERVISOR_APPROVED,21,34,MEDIUM,True,False,2023-12-19,17,2
+R0451,S9569,Billy Bennett,CSE,2023,Service range land score natural.,Cybersecurity,DRAFT,20,28,MEDIUM,False,False,2023-04-28,0,3
+R0452,S9416,Jay Hendricks,ECE,2023,Result develop some measure sometimes east.,Thermal Engineering,SUBMITTED,25,33,MEDIUM,False,False,2023-12-03,0,3
+R0453,S7882,Sandra Brown,EEE,2024,Summer write interesting mission relationship policy hospital.,Renewable Energy,SUBMITTED,30,41,HIGH,False,False,2023-03-22,0,2
+R0454,S3905,Martin Mccormick,ECE,2024,Activity next street pretty item would technology.,IoT,HOD_APPROVED,40,45,HIGH,True,True,2024-03-19,5,3
+R0455,S8824,Daniel Morrow,MECH,2023,Body so step site offer.,VLSI,DRAFT,32,47,HIGH,False,False,2024-03-22,0,3
+R0456,S2640,Philip Barton,ECE,2022,Star draw often rock use main today style.,Thermal Engineering,HOD_APPROVED,36,48,HIGH,True,True,2024-01-19,12,2
+R0457,S3038,Allen Sullivan,ECE,2023,Consider interest side good.,IoT,DRAFT,15,20,MEDIUM,False,False,2023-07-28,0,1
+R0458,S8997,Greg Garcia,EEE,2022,Decade financial however husband responsibility along.,Data Science,DRAFT,10,15,LOW,False,False,2024-04-08,0,4
+R0459,S8113,Dr. Michael Khan PhD,EEE,2022,Ever citizen economy sense hair everyone.,Renewable Energy,SUBMITTED,19,31,MEDIUM,False,False,2023-04-20,0,3
+R0460,S4375,Lisa Goodman,CIVIL,2022,Green cut question him year unit away manager.,Cybersecurity,DRAFT,44,57,HIGH,False,False,2024-01-10,0,1
+R0461,S1861,Kristine Jimenez,CSE,2024,Guess pass computer tell pressure many sell.,Blockchain,DRAFT,13,25,LOW,False,False,2023-09-02,0,0
+R0462,S4927,Anna Lowe,ECE,2022,Talk American exist size.,Cybersecurity,DRAFT,5,14,LOW,False,False,2023-12-05,0,2
+R0463,S9950,Paul Yu,ECE,2023,Collection green writer chance.,Renewable Energy,SUBMITTED,34,39,HIGH,False,False,2024-05-01,0,2
+R0464,S9964,Michelle Mason,CSE,2022,Start matter friend marriage fear.,VLSI,DRAFT,36,41,HIGH,False,False,2023-10-31,0,3
+R0465,S6358,Leslie Young,CSE,2023,That step three PM election meeting.,Machine Learning,SUPERVISOR_APPROVED,7,21,LOW,True,False,2023-08-07,12,0
+R0466,S4338,Terry Cochran,CSE,2022,You accept space hour.,Blockchain,SUPERVISOR_APPROVED,44,53,HIGH,True,False,2023-07-14,13,4
+R0467,S1663,Sandra Christensen,ECE,2023,That word woman act eye officer executive.,AI,HOD_APPROVED,40,54,HIGH,True,True,2023-11-21,20,0
+R0468,S4173,Taylor Reeves,ECE,2024,System prevent near argue appear.,Civil Structures,SUBMITTED,22,36,MEDIUM,False,False,2024-02-23,0,3
+R0469,S8105,Rodney Leon,ECE,2024,Year move our keep.,Blockchain,SUBMITTED,30,39,HIGH,False,False,2024-03-31,0,2
+R0470,S9561,Martin Lopez,MECH,2024,One student make forward popular catch baby.,Data Science,SUPERVISOR_APPROVED,31,42,HIGH,True,False,2023-02-03,14,3
+R0471,S6534,Michael Thomas,CSE,2022,Information education per attack forward but father book.,Data Science,DRAFT,35,50,HIGH,False,False,2023-03-31,0,3
+R0472,S3939,Amanda Golden,ECE,2024,Manage little stage.,Civil Structures,HOD_APPROVED,5,16,LOW,True,True,2023-05-10,20,1
+R0473,S5059,Natasha Barnes,CSE,2023,Need clearly nor wonder interesting.,Machine Learning,HOD_APPROVED,24,37,MEDIUM,True,True,2024-05-13,19,2
+R0474,S5578,Jordan Park,MECH,2022,Language grow pass mention off whom.,IoT,SUPERVISOR_APPROVED,27,32,MEDIUM,True,False,2023-09-27,7,3
+R0475,S4337,Alexandra Burnett,CSE,2024,Staff subject capital.,Data Science,DRAFT,38,43,HIGH,False,False,2023-12-09,0,2
+R0476,S4823,Cynthia Bell,ECE,2023,Peace shake attack real alone.,Machine Learning,DRAFT,24,35,MEDIUM,False,False,2024-01-26,0,0
+R0477,S3959,Lauren Curtis,CSE,2024,Cost star hit create sense nation open.,Renewable Energy,DRAFT,32,45,HIGH,False,False,2023-10-17,0,3
+R0478,S4892,Keith Mann,CIVIL,2024,Very follow she according heavy yard.,Data Science,SUBMITTED,11,18,LOW,False,False,2023-03-04,0,3
+R0479,S1810,Lisa Gomez,ECE,2024,Loss walk media apply particularly create add strong.,VLSI,SUBMITTED,25,30,MEDIUM,False,False,2023-04-17,0,4
+R0480,S5168,Joshua Johnson,MECH,2024,Worry range responsibility similar bad prevent.,IoT,DRAFT,11,24,LOW,False,False,2023-04-21,0,4
+R0481,S4385,James Edwards,EEE,2024,Adult two enjoy carry left feel.,Renewable Energy,SUBMITTED,17,32,MEDIUM,False,False,2024-01-15,0,3
+R0482,S3927,Shelby Beasley,MECH,2022,Though country walk term song great meeting minute.,Renewable Energy,SUBMITTED,15,24,MEDIUM,False,False,2024-04-27,0,4
+R0483,S8713,Samantha Smith,CSE,2023,Yourself which avoid who.,Blockchain,DRAFT,28,37,MEDIUM,False,False,2023-09-11,0,4
+R0484,S8329,Amanda Bauer,CIVIL,2023,Strategy son reach officer seat show.,Machine Learning,DRAFT,21,31,MEDIUM,False,False,2023-07-06,0,0
+R0485,S8364,Jose Kim,MECH,2023,Hard coach wife room particularly management foreign.,Thermal Engineering,SUBMITTED,15,23,MEDIUM,False,False,2024-02-29,0,0
+R0486,S1825,Brandon Washington,MECH,2024,Quality yes born suggest north our group up.,Data Science,SUPERVISOR_APPROVED,5,12,LOW,True,False,2023-08-03,12,2
+R0487,S4667,Jeffrey Norman,CIVIL,2022,Long everyone go however.,Data Science,SUBMITTED,22,30,MEDIUM,False,False,2024-01-09,0,4
+R0488,S3221,Nancy Walter,MECH,2023,State least see evening.,Renewable Energy,SUPERVISOR_APPROVED,41,56,HIGH,True,False,2023-01-13,13,3
+R0489,S2704,Brandy Mack,MECH,2023,Which street line she determine write.,Blockchain,SUBMITTED,41,49,HIGH,False,False,2023-12-10,0,1
+R0490,S1850,Luke Rodgers,CSE,2024,Charge actually turn follow.,Machine Learning,SUBMITTED,29,34,MEDIUM,False,False,2023-07-05,0,3
+R0491,S1365,Ashley Nixon,CIVIL,2023,However walk day art yard kid million.,AI,DRAFT,14,24,LOW,False,False,2023-12-28,0,2
+R0492,S5683,Cynthia Combs,EEE,2024,Scene once lot actually.,Blockchain,SUBMITTED,24,36,MEDIUM,False,False,2023-09-20,0,1
+R0493,S1487,Ryan Gomez,EEE,2022,Act walk turn seem leg suffer can.,Renewable Energy,SUBMITTED,12,17,LOW,False,False,2024-05-02,0,4
+R0494,S9154,Sarah Spencer DDS,EEE,2022,Interesting perhaps of child smile drop beautiful.,VLSI,DRAFT,7,13,LOW,False,False,2024-01-02,0,2
+R0495,S8372,Karen Alexander,CIVIL,2024,Beautiful prepare admit government.,Civil Structures,HOD_APPROVED,10,24,LOW,True,True,2023-11-05,10,0
+R0496,S1196,Diana Armstrong,CSE,2022,Threat never piece memory fact southern.,VLSI,SUBMITTED,45,57,HIGH,False,False,2023-08-19,0,1
+R0497,S1086,Gregory Mcguire,ECE,2022,Information herself still realize often.,Civil Structures,SUBMITTED,23,30,MEDIUM,False,False,2023-01-25,0,3
+R0498,S3685,Levi Gutierrez,CSE,2024,World current window.,Blockchain,HOD_APPROVED,27,42,MEDIUM,True,True,2023-03-20,13,1
+R0499,S3273,Michelle Washington,CIVIL,2024,Against yes sure product nice state one.,Blockchain,HOD_APPROVED,8,20,LOW,True,True,2023-12-13,14,2
+R0500,S2673,Steve Figueroa,ECE,2023,Article brother college expert Mr be never.,Blockchain,SUBMITTED,28,40,MEDIUM,False,False,2023-10-27,0,4
+R0501,S2041,Cynthia Perry,MECH,2023,Break make former the.,Civil Structures,HOD_APPROVED,20,31,MEDIUM,True,True,2023-04-11,13,2
+R0502,S4109,Gabriel Rodriguez,ECE,2023,Attention much night base industry understand prove.,Renewable Energy,SUBMITTED,43,51,HIGH,False,False,2024-04-20,0,0
+R0503,S7047,Sean Wiley,CSE,2024,Family theory eye religious.,VLSI,SUPERVISOR_APPROVED,36,50,HIGH,True,False,2024-02-03,18,0
+R0504,S1987,Mrs. Virginia Cook,CSE,2023,American him cost investment collection play time turn.,IoT,SUBMITTED,7,20,LOW,False,False,2023-11-20,0,2
+R0505,S5607,Glenn Butler,CSE,2023,Room station TV say.,Renewable Energy,DRAFT,11,16,LOW,False,False,2023-02-26,0,2
+R0506,S4464,Benjamin Johnson,MECH,2024,Relationship method letter adult industry.,Cybersecurity,HOD_APPROVED,6,11,LOW,True,True,2023-05-11,10,0
+R0507,S2840,Carlos Edwards,CSE,2024,Big major cup same remain third avoid.,Blockchain,DRAFT,38,48,HIGH,False,False,2023-10-13,0,0
+R0508,S5019,Kenneth Walker,MECH,2023,Thousand over successful citizen whatever.,IoT,SUBMITTED,40,47,HIGH,False,False,2024-05-03,0,0
+R0509,S2993,Holly Duke,ECE,2022,Trade law prove and administration people.,Civil Structures,SUPERVISOR_APPROVED,20,32,MEDIUM,True,False,2023-09-14,6,0
+R0510,S9730,Jennifer King,MECH,2024,She exactly morning else ball include single.,IoT,HOD_APPROVED,30,38,HIGH,True,True,2023-05-01,6,3
+R0511,S5400,Katie Holmes,ECE,2022,Enough per low condition recognize model.,IoT,SUPERVISOR_APPROVED,34,48,HIGH,True,False,2023-03-12,8,4
+R0512,S7446,Linda Mcguire,ECE,2024,Already hair want suddenly cold college.,Cybersecurity,HOD_APPROVED,44,51,HIGH,True,True,2023-06-19,19,4
+R0513,S1590,Alexander Miller,CIVIL,2022,Against area kid air past produce report.,Civil Structures,SUPERVISOR_APPROVED,17,25,MEDIUM,True,False,2024-02-26,6,4
+R0514,S5185,Todd Powell,CSE,2024,Show common across.,IoT,SUBMITTED,15,28,MEDIUM,False,False,2023-10-24,0,0
+R0515,S5061,Janet Wang,CSE,2024,The summer far western.,AI,HOD_APPROVED,19,32,MEDIUM,True,True,2024-03-04,5,1
+R0516,S6495,Brian Torres,CSE,2023,Together present establish significant clearly.,Blockchain,SUBMITTED,43,53,HIGH,False,False,2023-08-27,0,0
+R0517,S9097,Dr. Timothy Bates,CSE,2022,Fear appear serve team around act real hit.,Renewable Energy,SUPERVISOR_APPROVED,42,49,HIGH,True,False,2023-07-12,5,2
+R0518,S7304,John Reed,CIVIL,2024,Change make make mission degree teacher guy.,Renewable Energy,SUPERVISOR_APPROVED,15,29,MEDIUM,True,False,2023-08-28,19,0
+R0519,S3348,Shawn Phillips,CSE,2022,Own man evening matter true security their.,Renewable Energy,SUPERVISOR_APPROVED,40,46,HIGH,True,False,2024-02-10,16,0
+R0520,S8426,David Johnson,ECE,2024,True poor little piece.,Thermal Engineering,SUPERVISOR_APPROVED,31,44,HIGH,True,False,2023-10-31,10,4
+R0521,S5694,Alex Walker,CSE,2022,Write big fish human line.,VLSI,HOD_APPROVED,28,40,MEDIUM,True,True,2024-02-06,5,4
+R0522,S6265,Juan Jones,CSE,2022,Hold by at mother doctor similar.,Renewable Energy,SUBMITTED,5,17,LOW,False,False,2023-07-08,0,3
+R0523,S9585,Mr. Aaron Hill,CIVIL,2024,Agency example special everybody police argue cost.,AI,SUBMITTED,21,34,MEDIUM,False,False,2024-02-04,0,4
+R0524,S5651,Jordan Casey,EEE,2024,Process my him job explain look short single.,Blockchain,DRAFT,16,30,MEDIUM,False,False,2023-04-13,0,3
+R0525,S2252,Peter Phillips,CIVIL,2022,He skin myself after.,AI,HOD_APPROVED,26,41,MEDIUM,True,True,2023-10-03,5,0
+R0526,S3050,Amber Lopez,MECH,2024,Return experience music goal least fast poor.,Civil Structures,DRAFT,25,36,MEDIUM,False,False,2023-01-08,0,4
+R0527,S9127,Erika Flynn,ECE,2023,Until authority free away Mrs require.,IoT,HOD_APPROVED,33,38,HIGH,True,True,2024-03-24,16,2
+R0528,S3526,Karen Molina,CSE,2023,Hope high war fine by billion.,VLSI,SUPERVISOR_APPROVED,12,22,LOW,True,False,2023-12-05,19,4
+R0529,S7422,Brendan Davis,CSE,2023,Much put debate.,Civil Structures,SUBMITTED,18,26,MEDIUM,False,False,2023-07-03,0,3
+R0530,S3065,Kimberly Ray,ECE,2023,Claim son study.,IoT,SUBMITTED,41,51,HIGH,False,False,2023-10-12,0,3
+R0531,S9612,Briana Ramsey,CSE,2022,Light now glass world.,Data Science,HOD_APPROVED,10,19,LOW,True,True,2023-12-06,8,2
+R0532,S9477,Kevin Arnold,CIVIL,2024,My part politics reveal.,Renewable Energy,HOD_APPROVED,38,47,HIGH,True,True,2023-07-13,17,3
+R0533,S8615,Keith Webster,ECE,2022,Thousand so effort summer least just.,Data Science,DRAFT,31,41,HIGH,False,False,2023-12-28,0,3
+R0534,S5810,Patrick Huffman,CIVIL,2022,Almost purpose much exactly.,VLSI,SUBMITTED,21,32,MEDIUM,False,False,2023-03-03,0,4
+R0535,S9413,Kelly Arroyo,CIVIL,2023,Growth up conference direction speech agree.,AI,SUBMITTED,17,29,MEDIUM,False,False,2024-03-20,0,1
+R0536,S7763,Michael Jones,CSE,2022,Dinner behavior player table marriage discover.,Data Science,DRAFT,27,37,MEDIUM,False,False,2024-05-03,0,3
+R0537,S7377,Kenneth Jackson,ECE,2022,South right explain arm building politics.,Thermal Engineering,DRAFT,31,43,HIGH,False,False,2024-03-22,0,0
+R0538,S3328,David Pruitt,CSE,2022,End company ahead design.,Civil Structures,SUBMITTED,36,45,HIGH,False,False,2023-05-03,0,3
+R0539,S6624,Thomas Scott,ECE,2024,Note herself traditional approach word break the.,VLSI,SUPERVISOR_APPROVED,18,27,MEDIUM,True,False,2023-07-05,12,3
+R0540,S3923,Gregory Stephens,EEE,2023,Few bed able dark perform guess.,Data Science,SUBMITTED,36,43,HIGH,False,False,2023-03-26,0,2
+R0541,S7329,Nathaniel Rivera,ECE,2023,Community will common.,Civil Structures,DRAFT,34,42,HIGH,False,False,2023-12-21,0,1
+R0542,S3994,Kelli Montgomery PhD,MECH,2023,Save majority risk usually teach performance.,Thermal Engineering,SUPERVISOR_APPROVED,38,48,HIGH,True,False,2023-01-19,10,3
+R0543,S1624,Jordan Brown,ECE,2022,Decide chance sing figure outside later coach.,Data Science,SUPERVISOR_APPROVED,40,47,HIGH,True,False,2023-11-16,17,1
+R0544,S8752,Mark Thomas,CIVIL,2024,Argue anyone item listen.,VLSI,SUBMITTED,40,55,HIGH,False,False,2023-09-06,0,0
+R0545,S9349,Vincent Cervantes,CSE,2022,Star skill trade window main yeah data.,VLSI,SUPERVISOR_APPROVED,14,24,LOW,True,False,2024-05-12,17,4
+R0546,S7879,Kayla Walters,CIVIL,2024,Pick stay have go cut free.,VLSI,DRAFT,19,25,MEDIUM,False,False,2023-12-28,0,2
+R0547,S9241,Bryan Garcia,EEE,2024,Chair study much child girl.,Blockchain,DRAFT,5,13,LOW,False,False,2023-09-10,0,0
+R0548,S5785,Jessica Campbell,CSE,2024,Woman parent wife our civil happen.,Thermal Engineering,HOD_APPROVED,10,18,LOW,True,True,2023-09-17,5,1
+R0549,S9185,Paul Sharp,ECE,2024,Out because science simply adult house play.,VLSI,HOD_APPROVED,21,35,MEDIUM,True,True,2023-09-20,15,2
+R0550,S1156,Kevin Salinas,MECH,2024,Fact make bill property necessary.,Renewable Energy,DRAFT,33,38,HIGH,False,False,2024-02-11,0,3
+R0551,S1206,Nathan Clark,ECE,2024,Reach southern north hear look.,VLSI,SUBMITTED,39,54,HIGH,False,False,2023-12-07,0,4
+R0552,S3416,Tracy Nolan,MECH,2023,Maybe air very garden billion of.,Blockchain,SUPERVISOR_APPROVED,26,38,MEDIUM,True,False,2024-02-16,10,2
+R0553,S1756,Jesus Lewis,CIVIL,2024,Under letter himself image modern.,AI,SUBMITTED,17,30,MEDIUM,False,False,2023-04-07,0,0
+R0554,S8743,Alexander Walsh,CIVIL,2022,Hospital career call language human see drive.,Civil Structures,HOD_APPROVED,32,39,HIGH,True,True,2023-10-16,10,3
+R0555,S6931,James Gomez,ECE,2024,Them actually protect whom.,Thermal Engineering,SUPERVISOR_APPROVED,15,29,MEDIUM,True,False,2024-01-15,16,1
+R0556,S4717,Wendy Foster,ECE,2023,Mr threat future bar develop interesting.,Thermal Engineering,HOD_APPROVED,22,35,MEDIUM,True,True,2024-03-27,14,3
+R0557,S6242,Veronica Mendoza,EEE,2022,Seem ever first down attack serve trip.,VLSI,SUBMITTED,23,30,MEDIUM,False,False,2024-03-20,0,2
+R0558,S2274,Jeffrey Shaw DDS,CSE,2023,Image until right newspaper certainly.,Data Science,HOD_APPROVED,12,20,LOW,True,True,2024-03-01,11,0
+R0559,S3233,Brian Hudson,ECE,2022,Significant so beautiful have.,Renewable Energy,SUPERVISOR_APPROVED,30,42,HIGH,True,False,2024-02-23,15,2
+R0560,S5200,Nicole Ortiz,ECE,2023,Rock staff almost base administration food second.,Civil Structures,SUPERVISOR_APPROVED,40,45,HIGH,True,False,2024-05-13,5,0
+R0561,S2245,Deanna Petersen,EEE,2024,Help nearly near PM where draw.,Data Science,HOD_APPROVED,36,51,HIGH,True,True,2024-04-21,8,0
+R0562,S4063,Randy Tate,ECE,2022,Top you west second your lot charge.,Data Science,SUBMITTED,16,21,MEDIUM,False,False,2023-04-22,0,1
+R0563,S4054,Duane Chambers,CIVIL,2022,Minute size peace every rather.,Machine Learning,HOD_APPROVED,27,36,MEDIUM,True,True,2023-04-22,19,1
+R0564,S2369,Lauren Perez,CSE,2022,Within meet into knowledge life technology product rule.,Blockchain,SUBMITTED,31,38,HIGH,False,False,2023-06-09,0,0
+R0565,S2066,Justin Hernandez,CIVIL,2022,Father us kind court visit expert true.,Blockchain,SUBMITTED,39,50,HIGH,False,False,2023-03-06,0,1
+R0566,S9855,Jesus Williams,MECH,2022,Answer prepare hair read mother enough.,VLSI,HOD_APPROVED,11,17,LOW,True,True,2023-02-07,20,1
+R0567,S2548,Ana Zimmerman,CIVIL,2024,Final let body region computer space.,Thermal Engineering,SUPERVISOR_APPROVED,27,32,MEDIUM,True,False,2023-10-03,11,0
+R0568,S8950,Luis Richards,CIVIL,2024,Window peace party use piece sing nice.,VLSI,SUBMITTED,23,37,MEDIUM,False,False,2023-06-22,0,2
+R0569,S2485,Alyssa Obrien,ECE,2024,Wife left race than something describe play.,Thermal Engineering,DRAFT,18,26,MEDIUM,False,False,2023-08-06,0,2
+R0570,S2611,Brooke Arnold,MECH,2022,Hold trip participant player factor throw single three.,Thermal Engineering,SUBMITTED,30,36,HIGH,False,False,2023-06-09,0,1
+R0571,S9912,Kelly Thomas,ECE,2022,Major him specific travel.,Cybersecurity,DRAFT,44,59,HIGH,False,False,2023-05-26,0,3
+R0572,S7621,Catherine Collins,CIVIL,2024,Site table him huge only wonder him.,VLSI,SUPERVISOR_APPROVED,17,31,MEDIUM,True,False,2023-07-11,15,0
+R0573,S8090,Kevin Perez,ECE,2023,Small wrong laugh seem serve experience individual.,Machine Learning,SUPERVISOR_APPROVED,27,39,MEDIUM,True,False,2024-03-04,10,4
+R0574,S7853,Kelly Rodriguez,CSE,2023,Make their measure manage.,IoT,DRAFT,15,27,MEDIUM,False,False,2023-11-10,0,4
+R0575,S4944,Tracy Tate,CSE,2022,Want gas wrong two expert conference last example.,IoT,DRAFT,22,32,MEDIUM,False,False,2024-03-24,0,2
+R0576,S1529,Scott Graham,ECE,2024,Gas finally fall.,AI,HOD_APPROVED,17,26,MEDIUM,True,True,2023-07-27,20,4
+R0577,S4112,Dylan Black,MECH,2022,Food foot very country.,Civil Structures,SUBMITTED,24,38,MEDIUM,False,False,2023-07-28,0,1
+R0578,S8018,Justin Rogers,EEE,2024,Design else whom.,Data Science,SUBMITTED,20,26,MEDIUM,False,False,2023-02-27,0,0
+R0579,S6417,Tonya Mason,CSE,2024,Situation stand also skill draw.,Machine Learning,HOD_APPROVED,30,42,HIGH,True,True,2023-01-01,9,2
+R0580,S3245,Michael Turner,ECE,2023,Music federal military help very.,Civil Structures,SUPERVISOR_APPROVED,33,47,HIGH,True,False,2023-09-04,13,1
+R0581,S4527,Laura Clayton,CSE,2022,Against board store authority.,VLSI,SUBMITTED,14,19,LOW,False,False,2024-01-21,0,0
+R0582,S2974,Victor Peck,ECE,2023,Hotel instead likely main meet wrong glass.,Machine Learning,SUPERVISOR_APPROVED,20,25,MEDIUM,True,False,2023-03-07,11,2
+R0583,S9898,Frank Wall,CSE,2022,Style age month.,Machine Learning,DRAFT,11,18,LOW,False,False,2023-10-20,0,4
+R0584,S2326,Summer Thomas,ECE,2023,Activity art white front design meet.,Civil Structures,SUPERVISOR_APPROVED,5,13,LOW,True,False,2023-06-09,20,2
+R0585,S4848,Beverly Sanders,ECE,2023,Film several most pretty movement keep.,Machine Learning,HOD_APPROVED,38,46,HIGH,True,True,2023-12-22,15,4
+R0586,S4505,Anthony Ford,EEE,2023,Yeah treatment peace professional hear.,IoT,HOD_APPROVED,27,41,MEDIUM,True,True,2023-07-02,19,1
+R0587,S9389,Kristina Mendoza,CSE,2022,Son former number open hear property.,Blockchain,HOD_APPROVED,14,20,LOW,True,True,2023-05-06,12,4
+R0588,S4012,David Burnett,CSE,2024,Service collection even inside key never difference.,Machine Learning,SUPERVISOR_APPROVED,33,42,HIGH,True,False,2024-03-31,8,1
+R0589,S5472,Donna Nguyen,ECE,2022,Rule shoulder behavior exist wrong would.,Civil Structures,DRAFT,12,26,LOW,False,False,2023-10-13,0,2
+R0590,S2000,Timothy Delgado,CIVIL,2022,Artist American imagine camera.,AI,HOD_APPROVED,11,16,LOW,True,True,2024-01-04,6,2
+R0591,S8910,Sylvia Dawson,CIVIL,2024,Law turn avoid suggest writer tree.,VLSI,HOD_APPROVED,42,54,HIGH,True,True,2023-09-10,11,0
+R0592,S3915,Cynthia Cochran,CIVIL,2024,Think Mr control close surface poor old.,Renewable Energy,DRAFT,12,27,LOW,False,False,2023-12-26,0,1
+R0593,S2517,Cristina Higgins,EEE,2023,Wish keep leader either quality live today.,IoT,SUPERVISOR_APPROVED,18,26,MEDIUM,True,False,2023-11-13,16,1
+R0594,S7207,Robert Ochoa,CSE,2023,Way here bring yeah investment scene bill.,AI,SUPERVISOR_APPROVED,45,51,HIGH,True,False,2024-02-06,12,4
+R0595,S4295,David Levy,EEE,2023,Market simple name great.,Cybersecurity,DRAFT,32,41,HIGH,False,False,2023-11-14,0,2
+R0596,S2788,Michael Johnson,EEE,2024,Scientist stage than red group community safe property.,Cybersecurity,SUPERVISOR_APPROVED,27,37,MEDIUM,True,False,2023-11-29,10,1
+R0597,S2592,Laura Jenkins,CSE,2023,Away since on art style onto theory.,Civil Structures,HOD_APPROVED,7,17,LOW,True,True,2023-03-14,10,2
+R0598,S1181,Blake Wheeler,CIVIL,2024,Challenge skill boy note want.,VLSI,SUBMITTED,12,27,LOW,False,False,2023-05-11,0,0
+R0599,S2648,Raven Salazar,CSE,2023,Budget increase rock point news form country.,Cybersecurity,SUBMITTED,17,23,MEDIUM,False,False,2023-04-05,0,0
+R0600,S2498,Christina Shah,MECH,2023,Source week from year else guy.,Data Science,HOD_APPROVED,19,28,MEDIUM,True,True,2024-04-09,11,0
+R0601,S7165,Robert Salinas,ECE,2024,See effort property include laugh.,Machine Learning,DRAFT,9,20,LOW,False,False,2024-02-12,0,3
+R0602,S8603,Dr. Patricia Bell,CIVIL,2024,Pressure cultural speech behind.,VLSI,SUBMITTED,25,38,MEDIUM,False,False,2023-11-25,0,4
+R0603,S5068,Cameron Landry,MECH,2024,Career poor thousand citizen medical stuff defense western.,Machine Learning,SUBMITTED,39,54,HIGH,False,False,2023-03-10,0,0
+R0604,S1143,Calvin Taylor,MECH,2022,Myself include develop age leg board.,Blockchain,HOD_APPROVED,36,47,HIGH,True,True,2023-08-10,17,4
+R0605,S8795,Mary Kline,CSE,2024,Avoid recently with yet media professor deep.,Renewable Energy,SUBMITTED,37,46,HIGH,False,False,2023-07-07,0,4
+R0606,S8930,Kenneth Davis,CSE,2023,Better training cup discover property.,Data Science,SUBMITTED,26,31,MEDIUM,False,False,2023-01-16,0,1
+R0607,S8065,Edwin Smith,ECE,2023,Pay wide kid professor.,Machine Learning,SUBMITTED,22,29,MEDIUM,False,False,2024-02-02,0,4
+R0608,S8781,Kimberly Stewart,EEE,2023,Argue measure mouth third.,Cybersecurity,HOD_APPROVED,34,39,HIGH,True,True,2023-01-19,16,0
+R0609,S4418,Angela Klein,ECE,2024,Teach whether speech while parent coach material ready.,IoT,HOD_APPROVED,40,49,HIGH,True,True,2023-07-31,9,0
+R0610,S4038,Elizabeth Williams,MECH,2022,School interview already phone consumer no.,AI,HOD_APPROVED,36,51,HIGH,True,True,2024-01-01,16,1
+R0611,S5679,John Hicks,MECH,2024,Fear hospital medical forward reflect brother wait.,Civil Structures,HOD_APPROVED,20,27,MEDIUM,True,True,2023-05-08,6,3
+R0612,S5314,Brandi Jones,ECE,2024,Participant debate program treatment look play.,Civil Structures,SUPERVISOR_APPROVED,41,51,HIGH,True,False,2024-04-03,20,3
+R0613,S2873,Martha Patel,CIVIL,2022,Great bank choice oil government table professional.,Renewable Energy,SUBMITTED,5,11,LOW,False,False,2023-11-19,0,0
+R0614,S6839,Jon Roberts,CIVIL,2023,Surface across medical best protect.,Renewable Energy,DRAFT,34,41,HIGH,False,False,2024-03-16,0,1
+R0615,S7676,Tina Bruce,CSE,2023,Pretty turn clear high.,IoT,SUPERVISOR_APPROVED,9,20,LOW,True,False,2023-12-12,20,4
+R0616,S8482,Stephanie Willis,ECE,2023,Pull democratic foot under plant fund.,IoT,DRAFT,23,34,MEDIUM,False,False,2023-02-07,0,3
+R0617,S4282,Jonathan Estes,CSE,2022,Information focus college color behavior.,Machine Learning,HOD_APPROVED,18,24,MEDIUM,True,True,2023-12-15,20,2
+R0618,S3325,Jennifer Edwards,CSE,2023,Model assume also Mrs national.,Data Science,SUPERVISOR_APPROVED,12,18,LOW,True,False,2023-09-02,11,4
+R0619,S1643,Renee Arroyo,CIVIL,2024,Young film threat speech lead energy.,VLSI,SUBMITTED,32,44,HIGH,False,False,2023-12-19,0,1
+R0620,S1164,Jennifer Becker,MECH,2022,Maintain later different modern above difference charge.,VLSI,SUBMITTED,31,42,HIGH,False,False,2023-03-20,0,4
+R0621,S1197,Jeremiah Lopez,CSE,2024,Body practice hair fear back.,Machine Learning,SUBMITTED,28,34,MEDIUM,False,False,2023-01-14,0,4
+R0622,S1291,Laurie Garner,CSE,2022,Where team around blood truth so administration scientist.,Cybersecurity,SUPERVISOR_APPROVED,39,54,HIGH,True,False,2023-10-01,9,2
+R0623,S1978,Andrea White,MECH,2023,Four line price wind institution professor spring.,Civil Structures,SUPERVISOR_APPROVED,8,15,LOW,True,False,2023-09-26,16,1
+R0624,S2834,Sarah Pope,ECE,2022,Within young school age until class person.,VLSI,DRAFT,44,56,HIGH,False,False,2023-02-04,0,4
+R0625,S8605,William Wilson,CSE,2023,So general page hear age.,IoT,HOD_APPROVED,12,20,LOW,True,True,2023-08-20,18,1
+R0626,S8908,Jasmine Kerr,ECE,2022,To find me rather relationship.,Cybersecurity,SUBMITTED,23,32,MEDIUM,False,False,2023-04-19,0,1
+R0627,S6947,Margaret Shepard,CSE,2023,Choice require participant table so.,Cybersecurity,HOD_APPROVED,18,25,MEDIUM,True,True,2023-04-25,13,1
+R0628,S8618,Courtney Kidd,CSE,2024,Age real condition always work dog.,AI,DRAFT,11,19,LOW,False,False,2024-01-14,0,2
+R0629,S9949,Tina Ortiz,CSE,2024,Agreement order charge.,Civil Structures,HOD_APPROVED,7,13,LOW,True,True,2023-12-08,10,4
+R0630,S2145,Rebecca Vaughn DDS,MECH,2023,Know game security peace.,Machine Learning,DRAFT,37,52,HIGH,False,False,2023-12-31,0,2
+R0631,S7612,Brianna Holloway,CSE,2022,Customer career manage list fast thing consider suggest.,Renewable Energy,DRAFT,28,42,MEDIUM,False,False,2023-04-16,0,0
+R0632,S4848,Mark Guzman,EEE,2023,Most she particularly present able stop point.,Civil Structures,DRAFT,17,23,MEDIUM,False,False,2023-05-16,0,1
+R0633,S8629,Charles Freeman,ECE,2022,Kind cell civil thing region leg.,Cybersecurity,SUBMITTED,40,50,HIGH,False,False,2023-12-24,0,2
+R0634,S6967,Dawn Branch,ECE,2022,Eat detail appear state necessary this simply.,Data Science,DRAFT,17,31,MEDIUM,False,False,2024-04-13,0,0
+R0635,S7388,Brian Patton,EEE,2024,Sport particularly manage ahead break.,Renewable Energy,SUBMITTED,45,54,HIGH,False,False,2023-06-02,0,2
+R0636,S3054,Kara Ford,ECE,2023,Mention project available close community guess same.,Cybersecurity,SUPERVISOR_APPROVED,7,19,LOW,True,False,2023-05-28,10,2
+R0637,S3505,Megan Walker,CSE,2022,Table leader attack your road suddenly all.,AI,SUPERVISOR_APPROVED,33,43,HIGH,True,False,2023-10-02,16,3
+R0638,S9085,Mark Solis,MECH,2022,Now traditional may though I.,Data Science,SUPERVISOR_APPROVED,45,57,HIGH,True,False,2024-01-31,10,3
+R0639,S7889,Jillian Flowers,MECH,2022,Mouth check there either event discuss.,VLSI,HOD_APPROVED,35,45,HIGH,True,True,2024-01-10,5,4
+R0640,S8741,Robert Nguyen,EEE,2024,Evidence president clear film increase.,Civil Structures,HOD_APPROVED,36,43,HIGH,True,True,2023-02-11,7,3
+R0641,S1451,Charles Foster,CIVIL,2023,On statement activity require knowledge name.,VLSI,SUPERVISOR_APPROVED,7,22,LOW,True,False,2024-01-26,11,2
+R0642,S1158,Shawn Douglas,CSE,2023,Road open region truth.,IoT,SUBMITTED,40,48,HIGH,False,False,2024-04-01,0,4
+R0643,S6998,Heidi Pratt,CSE,2022,Pull sure give show woman keep.,Data Science,DRAFT,18,28,MEDIUM,False,False,2023-04-14,0,2
+R0644,S6708,Todd White MD,MECH,2023,Ground gun few.,Blockchain,DRAFT,14,29,LOW,False,False,2024-01-29,0,0
+R0645,S3456,Mario Flores,ECE,2022,Move leave avoid bar apply minute.,Cybersecurity,SUBMITTED,20,31,MEDIUM,False,False,2023-05-19,0,2
+R0646,S9837,Peter Martinez,EEE,2023,Miss entire land despite student long loss.,Renewable Energy,DRAFT,43,57,HIGH,False,False,2023-06-28,0,0
+R0647,S4362,Holly Moon,CIVIL,2024,Low that more door field ground happen.,VLSI,SUPERVISOR_APPROVED,21,29,MEDIUM,True,False,2024-02-15,14,2
+R0648,S7180,Margaret Tran,ECE,2024,Responsibility task whether travel I business sometimes.,VLSI,DRAFT,21,28,MEDIUM,False,False,2023-03-05,0,2
+R0649,S7069,Amanda Cruz,CSE,2023,Despite into material break fight growth.,Machine Learning,SUBMITTED,7,16,LOW,False,False,2023-05-11,0,1
+R0650,S8197,William Nelson,EEE,2024,Candidate white factor yes clear.,Civil Structures,HOD_APPROVED,10,21,LOW,True,True,2023-05-13,14,2
+R0651,S2234,Alexander Cook,MECH,2023,Environment organization staff them cause smile day goal.,AI,HOD_APPROVED,34,45,HIGH,True,True,2024-01-21,8,3
+R0652,S4554,Kevin Smith,CSE,2024,While use beautiful while special really yeah.,AI,SUPERVISOR_APPROVED,23,32,MEDIUM,True,False,2023-04-25,5,1
+R0653,S1272,Christina Briggs,CSE,2023,Life out nor also decision.,Thermal Engineering,SUPERVISOR_APPROVED,20,25,MEDIUM,True,False,2024-03-11,7,0
+R0654,S1518,William Smith,ECE,2024,Magazine ten party official alone fight front.,AI,SUPERVISOR_APPROVED,24,32,MEDIUM,True,False,2023-07-31,18,1
+R0655,S4893,Brian Ball,MECH,2024,Modern make own identify shake one rise.,Blockchain,SUBMITTED,33,45,HIGH,False,False,2023-07-18,0,0
+R0656,S6206,Ashley Gomez,ECE,2024,Very argue his represent which off parent.,Thermal Engineering,DRAFT,31,36,HIGH,False,False,2024-03-19,0,2
+R0657,S4665,David Lucas,ECE,2022,Billion protect card people by social.,Machine Learning,DRAFT,18,25,MEDIUM,False,False,2023-06-01,0,3
+R0658,S4073,Allison Houston,CSE,2022,Why note professor know necessary hope lay.,Renewable Energy,DRAFT,23,37,MEDIUM,False,False,2023-01-17,0,0
+R0659,S8256,Briana Allen,CSE,2024,Factor citizen top unit free buy.,Cybersecurity,SUPERVISOR_APPROVED,26,34,MEDIUM,True,False,2023-12-23,12,3
+R0660,S4355,Lori Barnes,MECH,2024,Hit term daughter.,Cybersecurity,DRAFT,18,27,MEDIUM,False,False,2024-04-14,0,3
+R0661,S4743,Heather Davis,CSE,2022,Main if detail catch factor story.,Civil Structures,SUBMITTED,33,39,HIGH,False,False,2024-02-17,0,1
+R0662,S2707,Jennifer Shepherd,CSE,2024,Once stand manager art trade.,Machine Learning,SUPERVISOR_APPROVED,12,23,LOW,True,False,2023-01-27,17,1
+R0663,S9723,Mitchell Christensen,ECE,2023,Language consider direction own.,VLSI,SUPERVISOR_APPROVED,37,51,HIGH,True,False,2023-11-10,16,1
+R0664,S6762,Darren King,CSE,2024,Above from off.,Data Science,SUPERVISOR_APPROVED,32,41,HIGH,True,False,2023-08-09,19,3
+R0665,S1858,Joanne Butler,CSE,2023,Body like campaign such garden a view natural.,Machine Learning,SUBMITTED,28,38,MEDIUM,False,False,2023-12-23,0,4
+R0666,S2853,Regina Garcia,CSE,2023,Especially pretty identify leader agreement painting.,AI,SUBMITTED,16,28,MEDIUM,False,False,2023-11-13,0,2
+R0667,S4715,Crystal Jones,CSE,2022,Arm simple hospital.,Machine Learning,SUBMITTED,24,32,MEDIUM,False,False,2023-02-05,0,2
+R0668,S3534,Robert Cummings,EEE,2022,Baby power customer successful.,Thermal Engineering,SUBMITTED,22,28,MEDIUM,False,False,2023-05-12,0,4
+R0669,S7916,Michael Briggs,CSE,2022,We increase once thousand budget mean.,Thermal Engineering,DRAFT,41,49,HIGH,False,False,2024-02-28,0,1
+R0670,S5921,Joyce Smith,CIVIL,2023,Gas send not wonder career food.,Civil Structures,SUPERVISOR_APPROVED,25,37,MEDIUM,True,False,2023-12-30,17,0
+R0671,S8374,Eddie Warren,CSE,2024,Imagine fine or myself Republican.,Cybersecurity,SUBMITTED,20,31,MEDIUM,False,False,2023-08-06,0,4
+R0672,S9559,Alison Banks,ECE,2024,Sport bring weight perform.,IoT,DRAFT,9,19,LOW,False,False,2023-07-04,0,0
+R0673,S9357,April Oneill,ECE,2022,But would scientist they which.,Cybersecurity,DRAFT,14,20,LOW,False,False,2023-04-12,0,0
+R0674,S8560,Russell Dixon Jr.,ECE,2022,First prove however minute.,Thermal Engineering,SUBMITTED,10,25,LOW,False,False,2024-03-12,0,4
+R0675,S9671,Alexander Chen,CSE,2023,News whom whether talk four collection memory.,Renewable Energy,DRAFT,38,47,HIGH,False,False,2023-07-18,0,1
+R0676,S6592,Michael Lucas,EEE,2024,Environment north improve main stand western.,Blockchain,HOD_APPROVED,27,35,MEDIUM,True,True,2024-01-31,20,4
+R0677,S3395,Rebecca Martinez,MECH,2023,Other region eight figure expect heavy.,Machine Learning,DRAFT,32,41,HIGH,False,False,2023-04-14,0,0
+R0678,S3848,Chase Perez,CSE,2022,Other kid many strategy fire.,Machine Learning,SUBMITTED,21,30,MEDIUM,False,False,2023-01-18,0,3
+R0679,S4650,Lindsey Williams,MECH,2024,Fund official think market culture evidence more.,Thermal Engineering,HOD_APPROVED,35,49,HIGH,True,True,2023-11-27,7,3
+R0680,S8632,Charles Gonzalez,CIVIL,2023,Cold than second process quality president field answer.,Machine Learning,DRAFT,7,14,LOW,False,False,2023-08-19,0,4
+R0681,S9359,Steven Smith,CSE,2022,Share dark spring million.,Renewable Energy,SUBMITTED,17,22,MEDIUM,False,False,2023-04-23,0,4
+R0682,S5360,Linda Nelson,ECE,2024,Animal son professor early.,Blockchain,SUBMITTED,27,34,MEDIUM,False,False,2023-10-14,0,2
+R0683,S3676,Antonio Lynch,ECE,2024,There nor million discussion become religious.,Cybersecurity,SUBMITTED,22,29,MEDIUM,False,False,2023-06-23,0,0
+R0684,S5933,Jason Garcia,ECE,2022,Under garden company carry beautiful people another.,Blockchain,SUBMITTED,8,15,LOW,False,False,2024-02-24,0,2
+R0685,S8357,Jesse Murray,MECH,2024,Stay page accept program popular.,VLSI,HOD_APPROVED,25,36,MEDIUM,True,True,2024-04-05,8,0
+R0686,S7302,Patricia Martin,CSE,2023,Just hit forward become black down.,AI,HOD_APPROVED,17,27,MEDIUM,True,True,2023-07-06,7,3
+R0687,S1030,Carlos Ford,CSE,2024,Discuss any threat serve.,Data Science,SUPERVISOR_APPROVED,37,50,HIGH,True,False,2024-03-11,12,0
+R0688,S5398,Karen Gibson,ECE,2022,Capital phone quickly east.,Machine Learning,HOD_APPROVED,5,19,LOW,True,True,2023-04-10,11,0
+R0689,S4167,Jill Morris,CSE,2022,Toward sure glass friend watch.,Thermal Engineering,SUBMITTED,38,53,HIGH,False,False,2023-06-12,0,2
+R0690,S9845,Noah Velasquez,CSE,2022,Leader out born child set west large.,Machine Learning,SUBMITTED,8,17,LOW,False,False,2023-12-19,0,0
+R0691,S9456,Sarah Gilbert,ECE,2024,Surface military outside region.,Renewable Energy,SUPERVISOR_APPROVED,9,18,LOW,True,False,2023-07-26,14,3
+R0692,S1548,Robert Hamilton,CSE,2022,Condition approach true hope network old benefit song.,Data Science,SUPERVISOR_APPROVED,27,42,MEDIUM,True,False,2023-03-25,19,3
+R0693,S8745,Clinton Howell,CSE,2022,Person part small last face president.,Data Science,SUBMITTED,25,30,MEDIUM,False,False,2023-06-01,0,1
+R0694,S7398,Robin Wolfe,MECH,2024,Much word material central score toward though stage.,Renewable Energy,SUPERVISOR_APPROVED,18,29,MEDIUM,True,False,2023-11-16,10,1
+R0695,S2334,Brooke Mercado,CSE,2022,Simple drug order adult.,Data Science,SUPERVISOR_APPROVED,43,53,HIGH,True,False,2024-02-18,13,3
+R0696,S2122,Nicole Schroeder,MECH,2024,And state against life interest note picture view.,Civil Structures,DRAFT,24,35,MEDIUM,False,False,2024-03-24,0,4
+R0697,S4677,Chad Herrera,ECE,2022,Modern capital authority nice yes summer never.,AI,SUBMITTED,43,53,HIGH,False,False,2023-07-29,0,2
+R0698,S3432,Edward Perry,MECH,2022,Number foot reality send.,Renewable Energy,DRAFT,5,10,LOW,False,False,2023-02-03,0,0
+R0699,S8945,Erin Brown MD,CSE,2023,Deal realize compare quickly thus.,Data Science,HOD_APPROVED,15,30,MEDIUM,True,True,2023-05-03,19,1
+R0700,S3161,Melissa Watts,CIVIL,2022,Beat anyone may anyone.,Cybersecurity,SUPERVISOR_APPROVED,14,19,LOW,True,False,2023-05-27,13,1
+R0701,S1003,Chelsea Wood,ECE,2022,Pull majority sense.,Data Science,SUPERVISOR_APPROVED,15,29,MEDIUM,True,False,2023-02-23,15,4
+R0702,S6500,Elizabeth Hicks,CSE,2024,Really but institution pull.,IoT,HOD_APPROVED,45,60,HIGH,True,True,2023-04-17,13,1
+R0703,S2016,Mark Osborne,ECE,2024,Industry whom toward within stay ball old level.,VLSI,DRAFT,11,16,LOW,False,False,2023-04-04,0,2
+R0704,S9038,Barbara Lee,ECE,2024,If early just could per idea pay.,VLSI,DRAFT,5,14,LOW,False,False,2023-03-20,0,4
+R0705,S5048,Janet Rojas,CSE,2024,Just front toward culture leave some.,Civil Structures,HOD_APPROVED,29,42,MEDIUM,True,True,2023-02-07,7,2
+R0706,S9926,Matthew Clark,CIVIL,2024,Discover work key sea not entire Mr the.,IoT,HOD_APPROVED,35,43,HIGH,True,True,2023-06-30,13,4
+R0707,S9723,Roger Mcpherson,CSE,2022,Food ability few cost difference.,Data Science,DRAFT,25,30,MEDIUM,False,False,2023-05-07,0,2
+R0708,S2208,Julia Humphrey,CSE,2024,Toward few foreign glass.,IoT,DRAFT,6,19,LOW,False,False,2023-01-09,0,2
+R0709,S1582,Aaron Dean,CSE,2023,Product surface difficult husband build research upon.,VLSI,HOD_APPROVED,25,37,MEDIUM,True,True,2024-04-24,10,3
+R0710,S7670,Brett Villegas,CSE,2023,Beautiful southern page raise image.,AI,SUPERVISOR_APPROVED,37,44,HIGH,True,False,2023-02-18,7,1
+R0711,S2695,Stephen Jacobs,ECE,2023,Case meet past hair subject imagine.,IoT,DRAFT,16,24,MEDIUM,False,False,2023-01-26,0,3
+R0712,S2483,Michael Hampton,CIVIL,2024,Good billion economy.,VLSI,DRAFT,17,26,MEDIUM,False,False,2023-12-13,0,3
+R0713,S8986,Kent Gutierrez,EEE,2023,Look station skill already good rich size.,Thermal Engineering,DRAFT,32,39,HIGH,False,False,2023-09-12,0,1
+R0714,S1196,Christina Rivera,ECE,2022,Serve also people article bit morning what.,Renewable Energy,SUBMITTED,5,18,LOW,False,False,2023-01-10,0,0
+R0715,S4101,Michelle Avila,ECE,2024,Woman back key fly high.,Machine Learning,HOD_APPROVED,35,50,HIGH,True,True,2023-03-14,15,3
+R0716,S3250,Connie Morgan,CSE,2022,Cause really animal say consumer stuff score.,Data Science,HOD_APPROVED,8,15,LOW,True,True,2023-09-25,5,4
+R0717,S7100,Stacey Cooper,MECH,2023,Course kind bit.,AI,DRAFT,34,42,HIGH,False,False,2024-01-28,0,2
+R0718,S2641,Timothy Moore,CSE,2023,Cell wife employee weight now religious likely.,VLSI,DRAFT,41,55,HIGH,False,False,2023-04-10,0,1
+R0719,S7543,Andrea Hernandez,MECH,2023,Decision hard modern technology defense recent.,IoT,DRAFT,20,31,MEDIUM,False,False,2023-12-24,0,2
+R0720,S1091,Kristen Reid,ECE,2023,Change indeed now ground who account life.,Machine Learning,DRAFT,6,12,LOW,False,False,2023-01-01,0,3
+R0721,S4959,Patricia Nielsen,MECH,2022,Professional half whose power both very.,AI,SUPERVISOR_APPROVED,26,37,MEDIUM,True,False,2023-08-15,19,0
+R0722,S9622,Leslie Bass,ECE,2022,Cup laugh leader discuss.,Renewable Energy,DRAFT,44,59,HIGH,False,False,2023-04-10,0,2
+R0723,S8119,Heather Hunt,EEE,2023,Official company anyone these media change.,Civil Structures,HOD_APPROVED,15,22,MEDIUM,True,True,2023-09-21,6,1
+R0724,S8698,David Braun,ECE,2022,Local factor production discover.,Civil Structures,SUPERVISOR_APPROVED,22,35,MEDIUM,True,False,2023-01-02,17,4
+R0725,S7494,Sarah Lynch,CSE,2023,Worry about tax discover result item.,AI,SUBMITTED,21,28,MEDIUM,False,False,2023-01-29,0,1
+R0726,S9173,Susan Dixon,ECE,2022,Back student find blood company.,Machine Learning,SUPERVISOR_APPROVED,17,30,MEDIUM,True,False,2023-09-29,10,3
+R0727,S4196,Morgan Marquez,MECH,2023,Staff push begin consider reason firm ground.,Data Science,SUBMITTED,35,48,HIGH,False,False,2023-10-04,0,4
+R0728,S6442,Colleen Taylor,CIVIL,2024,Next party environment attention education leave quite.,Thermal Engineering,SUPERVISOR_APPROVED,41,49,HIGH,True,False,2023-04-09,20,2
+R0729,S9983,Maria Bond,CSE,2023,Education score threat memory.,Blockchain,SUPERVISOR_APPROVED,23,35,MEDIUM,True,False,2023-02-22,18,4
+R0730,S1805,Corey Rivas,CSE,2022,Animal report perhaps nature cultural nature.,Blockchain,SUPERVISOR_APPROVED,45,52,HIGH,True,False,2023-07-24,10,0
+R0731,S9299,Michael Cunningham,CIVIL,2024,Boy condition thought already.,Thermal Engineering,SUBMITTED,9,16,LOW,False,False,2023-11-28,0,0
+R0732,S4601,Mr. Derrick Payne,ECE,2022,Join agreement large again power top skin compare.,Cybersecurity,SUPERVISOR_APPROVED,15,29,MEDIUM,True,False,2024-03-24,11,3
+R0733,S7504,Jeff Brown,CIVIL,2023,Animal like say firm experience house.,Machine Learning,SUPERVISOR_APPROVED,21,30,MEDIUM,True,False,2023-02-06,14,0
+R0734,S6472,Travis Gentry,ECE,2023,Impact as physical lay say how son care.,Civil Structures,SUBMITTED,22,30,MEDIUM,False,False,2023-06-12,0,2
+R0735,S7872,Brandon Chambers,ECE,2022,Win catch final bit senior must through fast.,VLSI,DRAFT,31,38,HIGH,False,False,2023-03-27,0,2
+R0736,S5287,Deanna Brooks,ECE,2024,Account play record yourself prove follow sign.,Thermal Engineering,DRAFT,10,25,LOW,False,False,2024-02-05,0,2
+R0737,S2127,Joshua Johnson,CSE,2023,Upon company life five hit its produce.,VLSI,HOD_APPROVED,17,32,MEDIUM,True,True,2023-11-29,8,0
+R0738,S8339,Michelle Massey,MECH,2024,Record care station hope.,Cybersecurity,DRAFT,37,48,HIGH,False,False,2024-01-16,0,2
+R0739,S3276,Thomas Vance,MECH,2023,Already though class mention.,Machine Learning,HOD_APPROVED,6,15,LOW,True,True,2024-01-09,14,1
+R0740,S8001,Stephanie Murray,CSE,2023,By ready long term consider.,Data Science,HOD_APPROVED,5,16,LOW,True,True,2023-05-15,11,1
+R0741,S1130,Kristy Rogers,CIVIL,2022,It skill good responsibility smile day edge call.,Thermal Engineering,DRAFT,12,24,LOW,False,False,2023-11-24,0,0
+R0742,S3302,Joshua Colon,MECH,2022,Idea concern own.,Machine Learning,SUBMITTED,44,58,HIGH,False,False,2023-12-23,0,3
+R0743,S9293,Kim Cook,ECE,2024,Simple beat trouble continue.,AI,SUBMITTED,30,43,HIGH,False,False,2023-02-08,0,0
+R0744,S8760,Tony Lee,CIVIL,2022,Pretty follow reason compare no.,Cybersecurity,SUBMITTED,12,19,LOW,False,False,2024-01-27,0,3
+R0745,S9735,Kelly Kelly,MECH,2022,Letter family film above hundred wish.,IoT,SUBMITTED,25,35,MEDIUM,False,False,2023-04-16,0,2
+R0746,S8184,David Blackwell,ECE,2022,Action discuss serious organization easy.,VLSI,DRAFT,36,47,HIGH,False,False,2023-09-22,0,4
+R0747,S5947,Paul Parker,ECE,2022,Light next practice center hot thought.,Cybersecurity,HOD_APPROVED,34,49,HIGH,True,True,2023-08-29,17,0
+R0748,S8996,Daniel Cain,CIVIL,2022,Like senior finish true choice wear store.,Thermal Engineering,SUPERVISOR_APPROVED,20,28,MEDIUM,True,False,2023-09-29,11,0
+R0749,S9150,Karen Griffith,CIVIL,2023,No least significant.,Civil Structures,DRAFT,40,55,HIGH,False,False,2023-04-23,0,1
+R0750,S7591,Dana Gibson,CSE,2023,Become interest commercial reduce provide organization Mr.,Civil Structures,DRAFT,39,46,HIGH,False,False,2023-07-09,0,4
+R0751,S9215,Thomas Peterson,MECH,2024,Successful business imagine draw drug could several because.,Civil Structures,HOD_APPROVED,41,52,HIGH,True,True,2023-08-04,9,2
+R0752,S1523,Melissa Rodgers,MECH,2022,Conference send assume moment.,Data Science,DRAFT,35,47,HIGH,False,False,2023-05-18,0,4
+R0753,S7847,Patrick Thompson,ECE,2024,Tonight young arrive its.,Blockchain,SUBMITTED,25,39,MEDIUM,False,False,2023-10-01,0,1
+R0754,S4738,Robert Sharp,ECE,2022,Chair effort concern begin wind rather.,Cybersecurity,SUBMITTED,44,52,HIGH,False,False,2023-10-13,0,4
+R0755,S1014,Anita Turner,CSE,2023,Almost seem few what two baby public.,Thermal Engineering,SUBMITTED,20,27,MEDIUM,False,False,2023-09-03,0,1
+R0756,S6334,Amber Morgan,CSE,2024,Produce hot special somebody discover age face.,IoT,SUPERVISOR_APPROVED,10,17,LOW,True,False,2024-03-27,17,1
+R0757,S3637,Caleb Rivas,ECE,2022,Move age huge staff early year place.,Data Science,DRAFT,7,17,LOW,False,False,2023-10-31,0,2
+R0758,S9874,Joy Schaefer,CSE,2024,Else record like believe.,Blockchain,SUPERVISOR_APPROVED,6,15,LOW,True,False,2024-05-05,13,3
+R0759,S5755,Christina Khan,MECH,2022,Discuss move sister law political movie position.,Cybersecurity,DRAFT,27,34,MEDIUM,False,False,2023-05-26,0,4
+R0760,S7357,Christine Riley,CSE,2023,Can skin road project prepare enough though.,Machine Learning,SUPERVISOR_APPROVED,30,42,HIGH,True,False,2024-03-27,6,4
+R0761,S7728,Jamie Norman,ECE,2023,Moment state many seat own rock.,Blockchain,SUPERVISOR_APPROVED,5,17,LOW,True,False,2023-05-11,12,4
+R0762,S5591,Elizabeth Collins,EEE,2023,She evening agree head marriage window north.,Blockchain,SUBMITTED,13,22,LOW,False,False,2023-04-13,0,3
+R0763,S4930,Ryan Scott,ECE,2023,Soldier rather finish present.,Blockchain,SUBMITTED,11,26,LOW,False,False,2024-03-02,0,1
+R0764,S6095,Christopher Hernandez,CSE,2022,Around dark marriage oil finally.,Civil Structures,HOD_APPROVED,20,28,MEDIUM,True,True,2023-07-03,16,1
+R0765,S8082,Sherri Quinn,ECE,2023,Contain future how century again effect.,Cybersecurity,DRAFT,42,48,HIGH,False,False,2023-12-24,0,2
+R0766,S7030,Tamara Castillo,MECH,2024,How day test common.,Thermal Engineering,SUPERVISOR_APPROVED,23,31,MEDIUM,True,False,2023-01-28,6,3
+R0767,S1126,Victoria Johnson,EEE,2023,Ask just win catch side possible.,IoT,HOD_APPROVED,40,48,HIGH,True,True,2024-02-20,18,3
+R0768,S6341,Sandra Hill,EEE,2022,Describe ten rock manage card full course machine.,Civil Structures,SUPERVISOR_APPROVED,41,52,HIGH,True,False,2024-03-30,14,4
+R0769,S1113,Renee Gutierrez,CIVIL,2022,Really range possible last live pretty.,Thermal Engineering,DRAFT,36,42,HIGH,False,False,2023-10-31,0,2
+R0770,S6847,Jennifer Velazquez,ECE,2022,Trial call cultural business send simple necessary.,AI,DRAFT,37,51,HIGH,False,False,2023-01-07,0,0
+R0771,S3964,Michelle Newman,CIVIL,2024,He life oil level capital indicate executive.,VLSI,SUPERVISOR_APPROVED,9,14,LOW,True,False,2023-12-29,9,1
+R0772,S3793,Linda Chambers,MECH,2024,Million federal success perform.,Machine Learning,DRAFT,30,39,HIGH,False,False,2023-03-26,0,3
+R0773,S7658,Diane Andrews,ECE,2022,A daughter computer final activity.,AI,HOD_APPROVED,43,50,HIGH,True,True,2023-07-22,6,0
+R0774,S7490,Christian Smith,CSE,2023,Tough garden knowledge wife thing by.,Machine Learning,SUPERVISOR_APPROVED,22,36,MEDIUM,True,False,2023-05-03,5,0
+R0775,S6637,Mrs. Megan Mcclain,ECE,2023,Talk throughout type marriage official senior.,Renewable Energy,DRAFT,22,30,MEDIUM,False,False,2023-03-26,0,4
+R0776,S6440,Jacqueline Watson,CSE,2024,Amount section student.,Data Science,SUBMITTED,26,34,MEDIUM,False,False,2023-02-28,0,3
+R0777,S3288,Christopher Morales,ECE,2022,Style today another owner property.,Thermal Engineering,SUPERVISOR_APPROVED,28,35,MEDIUM,True,False,2023-12-15,19,1
+R0778,S3683,Stephen Jensen,CSE,2024,Never tend need avoid raise.,Blockchain,DRAFT,12,22,LOW,False,False,2023-10-10,0,3
+R0779,S2615,Robert Francis,CIVIL,2023,Decade car indeed especially.,AI,SUPERVISOR_APPROVED,28,43,MEDIUM,True,False,2023-08-13,18,4
+R0780,S2574,Nicole Becker,CSE,2024,Understand detail wall meeting than pay.,Renewable Energy,SUBMITTED,42,49,HIGH,False,False,2023-03-15,0,3
+R0781,S8705,Terry Mcdonald,CIVIL,2023,Cultural firm leader high.,IoT,HOD_APPROVED,21,28,MEDIUM,True,True,2024-02-02,18,0
+R0782,S6386,Raymond Mendoza,CSE,2023,Rule remember middle thing lead.,Civil Structures,HOD_APPROVED,28,35,MEDIUM,True,True,2023-10-30,8,0
+R0783,S7977,Dana Bird,ECE,2022,Painting office lead.,AI,SUBMITTED,44,50,HIGH,False,False,2023-04-18,0,0
+R0784,S6640,Kim Mills,EEE,2023,Operation whose animal evidence.,Blockchain,DRAFT,24,31,MEDIUM,False,False,2023-12-10,0,1
+R0785,S7634,Lauren Simmons,CSE,2023,Half likely stay structure board pay lead direction.,VLSI,SUBMITTED,31,37,HIGH,False,False,2024-02-04,0,3
+R0786,S6390,Cynthia Jordan,CSE,2022,Behind let manager child.,Blockchain,SUBMITTED,37,42,HIGH,False,False,2023-05-11,0,2
+R0787,S8016,Andrew Flores,ECE,2023,Note general something hot go yes west.,Cybersecurity,SUPERVISOR_APPROVED,39,52,HIGH,True,False,2023-05-31,13,0
+R0788,S4442,Matthew Jones,CIVIL,2024,Imagine rather deep describe class pressure owner.,IoT,SUPERVISOR_APPROVED,18,32,MEDIUM,True,False,2023-02-21,8,2
+R0789,S9753,Joseph Erickson,ECE,2024,Cell whose mind.,Blockchain,DRAFT,44,51,HIGH,False,False,2023-03-16,0,0
+R0790,S3140,Randall Edwards,EEE,2024,Research alone box while remain policy on.,Blockchain,SUBMITTED,35,47,HIGH,False,False,2024-05-14,0,3
+R0791,S2103,Sarah Long,ECE,2022,Book public expect first it in.,VLSI,HOD_APPROVED,34,48,HIGH,True,True,2024-01-12,10,0
+R0792,S9190,Diana Sloan,ECE,2023,Model alone guy concern court effort property reflect.,Renewable Energy,DRAFT,32,39,HIGH,False,False,2023-06-09,0,2
+R0793,S5128,Eric Ortiz,EEE,2023,Federal game hard probably.,Cybersecurity,SUBMITTED,8,19,LOW,False,False,2023-09-15,0,1
+R0794,S7893,Brian Kennedy,EEE,2024,Standard do tell.,Cybersecurity,DRAFT,43,54,HIGH,False,False,2023-12-12,0,0
+R0795,S3450,Mary Green,CSE,2022,Although glass close.,Thermal Engineering,SUBMITTED,5,12,LOW,False,False,2023-10-03,0,2
+R0796,S4648,Jeffery Hinton,ECE,2023,Occur front able.,Blockchain,HOD_APPROVED,37,50,HIGH,True,True,2023-01-25,6,0
+R0797,S8882,Jessica Duran,EEE,2024,Truth visit manage security.,VLSI,SUBMITTED,11,23,LOW,False,False,2023-06-24,0,4
+R0798,S7003,Clinton Dunn,MECH,2022,Official tree suggest.,Machine Learning,DRAFT,11,20,LOW,False,False,2023-11-09,0,3
+R0799,S5009,Yvonne Simon,CSE,2024,Measure tree budget son my miss thing million.,IoT,SUBMITTED,10,17,LOW,False,False,2023-09-17,0,3
+R0800,S2488,Kimberly Dougherty,ECE,2023,People system read outside give education baby amount.,Blockchain,SUPERVISOR_APPROVED,40,45,HIGH,True,False,2023-11-08,13,2
