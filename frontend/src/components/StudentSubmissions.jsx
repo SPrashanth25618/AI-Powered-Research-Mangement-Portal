@@ -159,6 +159,12 @@ export default function StudentSubmissions() {
     const toastId = toast.loading("Deleting draft...");
 
     try {
+      // Delete child rows first to avoid 409 FK constraint errors
+      await Promise.all([
+        supabase.from("faculty_comments").delete().eq("research_id", id),
+        supabase.from("ai_reports").delete().eq("research_id", id),
+      ]);
+
       const { error } = await supabase
         .from("research_projects")
         .delete()
